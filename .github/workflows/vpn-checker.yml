@@ -2,7 +2,7 @@ name: VPN Checker (Rust Binary)
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Каждые 3 часа
+    - cron: '0 */5 * * *'  # Каждые 5 часов
   workflow_dispatch:  # Ручной запуск
 
 jobs:
@@ -38,4 +38,5 @@ jobs:
           
           git diff --staged --quiet || git commit -m "🔄 Auto-update VPN keys [$(date +'%Y-%m-%d %H:%M')]"
           git push || echo "Nothing to push"
+
 
