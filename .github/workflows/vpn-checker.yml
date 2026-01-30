@@ -1,0 +1,41 @@
+name: VPN Checker (Rust Binary)
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Каждые 3 часа
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Install sing-box
+        run: |
+          wget -qO- https://github.com/SagerNet/sing-box/releases/download/v1.8.0/sing-box-1.8.0-linux-amd64.tar.gz | tar xz
+          sudo mv sing-box-1.8.0-linux-amd64/sing-box /usr/local/bin/
+          sing-box version
+      
+      - name: Run VPN Checker
+        run: |
+          chmod +x scripts/vpn_checker
+          ./scripts/vpn_checker
+      
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
+          git add bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
+          git add vpn_report.json 2>/dev/null || true
+          git add countries/ 2>/dev/null || true
+          
+          git diff --staged --quiet || git commit -m "🔄 Auto-update VPN keys [$(date +'%Y-%m-%d %H:%M')]"
+          git push || echo "Nothing to push"
+
