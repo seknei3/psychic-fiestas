@@ -97,7 +97,8 @@ https://github.com/IsupovOD/Vpn/raw/main/Config.txt
 https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
 https://github.com/MASOUDREZAII/vpns/raw/main/2
-
+https://github.com/TheBolBol/BolVPN/raw/main/configs1.txt
+https://github.com/VPNYOOZ/VPNYOOZ.PROXY/raw/main/VPNYOOZ-PROXY
 
 
 
