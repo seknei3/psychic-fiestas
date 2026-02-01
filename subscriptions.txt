@@ -94,6 +94,8 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/r3zarahimi/tg-v2ray-configs-every2h/main/Config_jo.txt
 https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/refs/heads/main/proxies.txt
 https://github.com/IsupovOD/Vpn/raw/main/Config.txt
+https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
+https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
 
 
 
