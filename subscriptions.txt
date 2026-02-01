@@ -99,5 +99,7 @@ https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
 https://github.com/MASOUDREZAII/vpns/raw/main/2
 https://github.com/TheBolBol/BolVPN/raw/main/configs1.txt
 https://github.com/VPNYOOZ/VPNYOOZ.PROXY/raw/main/VPNYOOZ-PROXYhttps://github.com/amirhrezapour/vpn-sub/raw/main/Amirhosseinrezapour
+https://github.com/aotocn/vpn/raw/main/new
+https://github.com/hardcrabe/vpncrab/raw/main/nodes.txt
 
 
