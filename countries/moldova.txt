@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#🇲🇩 Moldova | Alexhost SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#🇲🇩 Moldova | Alexhost SRL 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.1.175:990#🇲🇩 Moldova | Alexhost SRL 3
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#🇲🇩 Moldova | Alexhost SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.1.175:990#🇲🇩 Moldova | Alexhost SRL 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#🇲🇩 Moldova | Alexhost SRL 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 Moldova | Alexhost SRL 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 Moldova | Alexhost SRL 5
-vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&security=reality&sid=ac31827454d7f693&sni=cdnjs.com&type=tcp#🇲🇩 Moldova | Foxcloud LLP 1
-vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🇲🇩 Moldova | Foxcloud LLP 2
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880?encryption=none&security=none&type=ws&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%F0%9F%94%92%20%5BBy%20EbraSha%5D#🇲🇩 Moldova | Alexhost SRL 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#🇲🇩 Moldova | Alexhost SRL 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 Moldova | Alexhost SRL 7
 vless://828cef84-f743-4d45-b6ae-f41bfd09c9ef@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇲🇩 Moldova | S.C. INFOTECH-GRUP S.R.L. 1
