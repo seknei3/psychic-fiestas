@@ -7,4 +7,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#🇧🇬 Bulgaria | Kaopu Cloud HK 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#🇧🇬 Bulgaria | Kaopu Cloud HK 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇧🇬 Bulgaria | VPS.BG 1
+vless://a0c5e6d9-519e-4fc1-8b51-27188a2452fe@nodka6.uzuk.pro:2346?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=xI_kMYKPKvGzm4tLU4MVISDWsB-R75f592qyh2Rz2yM&sid=2d31751153534a8b&sni=kinopoisk.ru#🇧🇬 Bulgaria | Serva ONE LTD 1
