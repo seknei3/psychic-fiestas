@@ -6,7 +6,7 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 Albania | Global Connectivity So... 1
-vless://3ea61064-dae6-4ce5-8e3b-451c7feab49f@104.18.32.47:443?type=ws&encryption=none&host=sweet-sgv2ray.xihijop617-075.workers.dev&path=/eyJqdW5rIjoiMHF3bXNPUVFSYkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv&alpn=http/1.1&allowInsecure=1#🌍 Albania | OC NETWORKS LIMITED 1
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🌍 Albania | WorkTitans B.V. 1
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@45.15.170.237:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🌍 Albania | WorkTitans B.V. 1
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&type=ws#🌍 Albania | WorkTitans B.V. 2
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🌍 Albania | WorkTitans B.V. 3
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🌍 Albania | WorkTitans B.V. 3
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&path=%2Fvless%2F&type=ws#🌍 Albania | WorkTitans B.V. 4
