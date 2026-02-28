@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇨🇿 Czechia | Bralu Jurjanu biedriba 1
 vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 1
+vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 2
