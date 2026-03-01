@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://656bb400-3b7a-47e3-94b0-0362f3865072@go.inmobi.com:8443?path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&encryption=none&insecure=1&host=socks5.revil-time3.workers.dev&type=ws&allowInsecure=1&sni=socks5.revil-time3.workers.dev#🇧🇪 Belgium | Google 1
+vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%F0%9F%94%92%20%5BBy%20EbraSha%5D#🇧🇪 Belgium | Google 1
