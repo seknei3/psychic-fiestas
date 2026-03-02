@@ -85,3 +85,6 @@ https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xra
 https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
 https://github.com/SilentGhostCodes/WhiteListVpn/raw/main/Whitelist.txt
 https://gbr.mydan.online/configs
+https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
+https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6BL.txt
+
