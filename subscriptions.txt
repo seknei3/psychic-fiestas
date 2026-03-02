@@ -89,3 +89,4 @@ https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizy
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6BL.txt
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/free_vless_servers.txt
 https://gist.githubusercontent.com/sevushyamamoto-stack/9341be7a058e132154d407d082a60fb1/raw/mysub.txt
+https://github.com/Bogdan293939/VPN-ZL3Yy/raw/main/VPN.txt
