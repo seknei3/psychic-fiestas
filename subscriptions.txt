@@ -74,5 +74,6 @@ https://github.com/TheBolBol/BolVPN/raw/main/configs1.txt
 https://github.com/aotocn/vpn/raw/main/new
 https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
 https://github.com/hardcrabe/vpncrab/raw/main/nodes.txt
+https://raw.githubusercontent.com/cinev505/VlessTrogan-vpn-key/refs/heads/main/All-keys
 
 
