@@ -87,4 +87,5 @@ https://github.com/SilentGhostCodes/WhiteListVpn/raw/main/Whitelist.txt
 https://gbr.mydan.online/configs
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6BL.txt
+https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/free_vless_servers.txt
 
