@@ -84,4 +84,4 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_c
 https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
 https://github.com/SilentGhostCodes/WhiteListVpn/raw/main/Whitelist.txt
-
+https://gbr.mydan.online/configs
