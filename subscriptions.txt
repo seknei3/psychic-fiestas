@@ -81,5 +81,7 @@ https://raw.githubusercontent.com/Ai123999/4Thur/refs/heads/main/4Thur_Notorgame
 https://storage.yandexcloud.net/vpn1337/freevipcfg.txt
 https://raw.githubusercontent.com/irairina6508-lgtm/MihskaVPNbot/refs/heads/main/Tortvpn
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
-
+https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
+https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
+https://github.com/SilentGhostCodes/WhiteListVpn/raw/main/Whitelist.txt
 
