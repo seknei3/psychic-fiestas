@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f518f8b4-d7e1-473b-8dba-c002b995afa8@212.233.74.12:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&sid=4e752b0d4d15e0f9#🌍 Cyprus | H2nexus LTD 1
-vless://f518f8b4-d7e1-473b-8dba-c002b995afa8@212.233.74.12:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&sid=4e752b0d4d15e0f9#🌍 Cyprus | H2nexus LTD 2
+vless://aadcbd09-b0d0-42a5-b103-f18ae322bc9f@212.233.79.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&sid=4e752b0d4d15e0f9#🌍 Cyprus | H2nexus LTD 1
+vless://aadcbd09-b0d0-42a5-b103-f18ae322bc9f@212.233.79.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&sid=4e752b0d4d15e0f9#🌍 Cyprus | H2nexus LTD 2
