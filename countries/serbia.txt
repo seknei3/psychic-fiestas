@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ggQm9iaVZQTiDigJQgU2VyYmlhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://171fc8a1-0808-4a2b-96de-5afd0f350548@89.23.113.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=knix.fasssst.online&fp=ios&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=5740b6ae&spx=%2F&type=tcp&headerType=none#🇷🇸 Serbia | WorkTitans B.V. 1
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🇷🇸 Serbia | M247 Europe SRL 1
