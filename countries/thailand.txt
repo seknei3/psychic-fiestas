@@ -7,9 +7,9 @@
 
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&security=none&type=ws#🌍 Thailand | DEXSERVER 1
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&type=ws&security=none&path=%2Fvless&host=www.ptnk.sry-vpn.com#🌍 Thailand | DEXSERVER 2
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&type=ws&security=none&path=%2Fvless&host=www.ptnk.sry-vpn.com#🌍 Thailand | DEXSERVER 3
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&security=none&type=ws#🌍 Thailand | DEXSERVER 4
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&security=none&type=ws#🌍 Thailand | DEXSERVER 3
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=/vless&security=none&type=ws#🌍 Thailand | DEXSERVER 4
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&type=ws&security=none&path=%2Fvless&host=www.ptnk.sry-vpn.com#🌍 Thailand | DEXSERVER 5
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=/vless&security=none&type=ws#🌍 Thailand | DEXSERVER 6
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&host=www.ptnk.sry-vpn.com&path=%2Fvless&security=none&type=ws#🌍 Thailand | DEXSERVER 6
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142#🌍 Thailand | Siamdata Communication... 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#🌍 Thailand | True Internet  CO. . 1
