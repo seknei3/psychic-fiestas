@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#🇮🇱 Israel | Meteverse . 1
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.80.205.244:8443?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.fgfw.ccwu.cc&fp=chrome&sni=snippet.fgfw.ccwu.cc&alpn=http%2F1.1#🇮🇱 Israel | Cloudflare, 1
