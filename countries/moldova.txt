@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?encryption=none&security=none&type=ws&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F#🇲🇩 Moldova | Alexhost SRL 1
+vless://d7d69cf4-63b0-4297-8f20-1681fd9aa6ab@bg.buzzapi.site:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=0MVIe2PZqqpPR4sPlxhi3zR8kKZOGQOL_ybyBgLXjVc&fp=chrome&sni=max.ru&sid=0839&spx=%2F#🇲🇩 Moldova | H2nexus LTD 1
+vless://74c6d2de-ce8c-48ac-9760-2f2f1c271681@gg.buzzapi.site:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=9zZLp9jWGwysUAuzgupP0YMyDUS-eoi5acIfkfq4qks&fp=random&sni=ads.x5.ru&sid=6b&spx=%2F#🇲🇩 Moldova | H2nexus LTD 2
