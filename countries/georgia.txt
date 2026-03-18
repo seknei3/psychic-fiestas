@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇬🇪 Georgia | 365.hosting 1
-vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&type=ws&security=none&host=britain.xydcqd.workers.dev#🇬🇪 Georgia | 365.hosting 2
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇬🇪 Georgia | 365.hosting 3
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?flow=&host=vip.yaml7.ggff.net&path=%2F&type=ws#🇬🇪 Georgia | 365.hosting 4
+vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?path=/🔒+[By+EbraSha]&security=none&encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&type=ws#🇬🇪 Georgia | 365.hosting 1
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?flow=&host=vip.yaml7.ggff.net&path=%2F&type=ws#🇬🇪 Georgia | 365.hosting 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇬🇪 Georgia | 365.hosting 3
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇬🇪 Georgia | 365.hosting 4
