@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0c56d165-7005-4655-8b9e-4f6888b50318@188.130.208.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.microsoft.com&fp=chrome&security=reality&pbk=NA3YQIUgOqXIoyBquevtBj9WH9F8dMYOsXVyIyjgTSM&sid=10785df3f05f625f&packetEncoding=xudp#🇨🇿 Czechia | Host-Telecom.com s.r.o. 1
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#🇨🇿 Czechia | WorkTitans B.V. 1

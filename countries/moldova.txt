@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇲🇩 Moldova | Alexhost SRL 1
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?encryption=none&security=none&type=ws&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F#🇲🇩 Moldova | Alexhost SRL 1
