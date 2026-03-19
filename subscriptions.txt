@@ -69,7 +69,6 @@ https://github.com/MASOUDREZAII/vpns/raw/main/2
 https://raw.githubusercontent.com/twinkalex1470-crypto/CatWhiteVPN/refs/heads/main/CaTWhiteVPN.txt
 https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/IsupovOD/Vpn/raw/main/Config.txt
-https://raw.githubusercontent.com/Egkaz/Proxy-list-20k-server/refs/heads/main/all_servers.txt
 https://github.com/TheBolBol/BolVPN/raw/main/configs1.txt
 https://github.com/aotocn/vpn/raw/main/new
 https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
