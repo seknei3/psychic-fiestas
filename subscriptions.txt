@@ -100,3 +100,4 @@ https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_B
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/My_Euro/my_euro_all_BLACK.txt
 https://github.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/raw/1ddbeb4bd5aec0d8c0d3ae8d1ac2050caafe4a82/vpn-lte/best_good_renamed.txt
 https://raw.githubusercontent.com/povpcvains-tech/MiUi-VPN/refs/heads/main/9q2vHs4BqH.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
