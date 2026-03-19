@@ -90,3 +90,11 @@ https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/free_vless_
 https://gist.githubusercontent.com/sevushyamamoto-stack/9341be7a058e132154d407d082a60fb1/raw/mysub.txt
 https://github.com/Bogdan293939/VPN-ZL3Yy/raw/main/VPN.txt
 https://github.com/Alekondra13/Alekondra-vpn/raw/main/%F0%9F%92%8EAlekondra%20vpn%20%F0%9F%92%8E
+https://raw.githubusercontent.com/amindzlvess-boop/SlashVPN/refs/heads/main/vpn.txt
+https://white-lists.vercel.app/api/filter?code=RU&type=white&min=false
+https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt
+https://raw.githubusercontent.com/VP01596/vless-top15/refs/heads/main/top100.txt
+https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_all_WHITE.txt
+https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/My_Euro/my_euro_all_WHITE.txt
+https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_all_BLACK.txt
+https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/My_Euro/my_euro_all_BLACK.txt
