@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.183.219:35457?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.fgfw.ccwu.cc&sni=snippet.fgfw.ccwu.cc#🌍 Philippines | Cloudflare, 1
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI2MS4yNDUuMTEuNjAiLCAicG9ydCI6IDgwLCAiaWQiOiAiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI2MS4yNDUuMTEuNjAiLCAicGF0aCI6ICIvdm1lc3MvIn0=#🌍 Philippines | Infinivan Incorporated 1
