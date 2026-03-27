@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://038bb5f0-156a-4d47-9b8d-a7bbca95f331@45.15.162.150:8443?encryption=none&security=tls&sni=czorg.tconnect.services&insecure=0&allowInsecure=0&type=ws&path=%2Fws#🇨🇿 Czechia | WorkTitans B.V. 2
-vless://038bb5f0-156a-4d47-9b8d-a7bbca95f331@45.15.162.150:8443?encryption=none&security=tls&sni=czorg.tconnect.services&insecure=0&allowInsecure=0&type=ws&path=%2Fws#🇨🇿 Czechia | WorkTitans B.V. 3
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#🇨🇿 Czechia | WorkTitans B.V. 1
+vless://22442f5c-f5b2-4a55-9d22-b0ad536c253f@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vashsender.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=4cc4fd86&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 2
+vless://22442f5c-f5b2-4a55-9d22-b0ad536c253f@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=f19231c7&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 3
