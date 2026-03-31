@@ -8,9 +8,9 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 3
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.16.72.113:2086?encryption=none&host=index.arcane509.workers.dev&path=%2F9om0kfpk0v09&security=none&type=ws#🇧🇪 Belgium | Google 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#🇧🇪 Belgium | Google 2
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#🇧🇪 Belgium | Google 3
-vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://636de463-b509-4631-adc6-400b21733278@104.21.89.4:2086?encryption=none&host=index.harmony610.workers.dev&path=%2Fl5s2vgexcus7b8c4&security=none&type=ws#🇧🇪 Belgium | Google 1
+vless://636de463-b509-4631-adc6-400b21733278@104.21.89.4:2086?type=ws&security=none&encryption=none&host=index.harmony610.workers.dev#🇧🇪 Belgium | Google 2
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 1
 vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 2
-vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 3
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243396643.camry-perma.info&path=%2Fphnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 3
+vless://c1a5ecfa-8a01-4070-91e0-0328b82388ad@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243396643.camry-perma.info&path=/phnkfhws&security=tls&sni=639073677243396643.camry-perma.info&type=ws#🇧🇪 Belgium | WorkTitans B.V. 4
