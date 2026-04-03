@@ -86,4 +86,5 @@ https://github.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/raw/1ddbeb4bd5aec0d8c0
 https://raw.githubusercontent.com/povpcvains-tech/MiUi-VPN/refs/heads/main/9q2vHs4BqH.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt
+https://gist.githubusercontent.com/cvedcvpn/e7221e7f54944f2611c3c0460f3afd30/raw/90bbd746ef545e49ef7e408969c031ae211fdc03/CVEDCVPN
 
