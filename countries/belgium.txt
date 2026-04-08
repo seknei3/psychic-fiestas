@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇧🇪 Belgium | Baxet Group 1
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#🇧🇪 Belgium | Baxet Group 2
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇧🇪 Belgium | Baxet Group 3
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇧🇪 Belgium | Baxet Group 4
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇧🇪 Belgium | Baxet Group 5
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇧🇪 Belgium | Baxet Group 1
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇧🇪 Belgium | Baxet Group 2
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇧🇪 Belgium | Baxet Group 3
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇧🇪 Belgium | Baxet Group 4
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇧🇪 Belgium | Baxet Group 5
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#🇧🇪 Belgium | Baxet Group 6
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 3
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 5
+vless://e3e10044-6b43-45b0-bea5-65cec4373a7a@176.122.25.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.vk.com&pbk=zwxb4S-XaRk54UpQmRoeA9VzK97kKLPaMEPVeQwG5zs&sid=0c77&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
