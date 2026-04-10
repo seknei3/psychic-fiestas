@@ -7,4 +7,4 @@
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#🇵🇹 Portugal | BrainStorm Network, Inc 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#🇵🇹 Portugal | BrainStorm Network, Inc 2
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%F0%9F%94%92&security=none&type=ws#🇵🇹 Portugal | WorkTitans B.V. 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#🇵🇹 Portugal | BrainStorm Network, Inc 3
