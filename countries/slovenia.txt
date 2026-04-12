@@ -3,10 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 3
-vless://95e19e20-c05c-4353-b954-c1fde8d8fd40@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=4cc4fd86&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 1
-vless://95e19e20-c05c-4353-b954-c1fde8d8fd40@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=4cc4fd86&spx=%252F#🇸🇮 Slovenia | WorkTitans B.V. 2
+vless://9a937102-5c4e-45d5-8e16-4e6d2410c889@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 1
+vless://c9ada6e5-e3ba-4cd1-9bb4-0beccca24d44@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vashsender.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 2
+vless://9a937102-5c4e-45d5-8e16-4e6d2410c889@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 3
+vless://9a937102-5c4e-45d5-8e16-4e6d2410c889@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia — #🇸🇮 Slovenia | WorkTitans B.V. 4
+vless://c9ada6e5-e3ba-4cd1-9bb4-0beccca24d44@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 5

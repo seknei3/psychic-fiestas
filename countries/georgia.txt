@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a3a33b94-931e-40de-918f-409d2bae6be9@nodevipvpn123123124.soon.it:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OUrZj2k14vPxLkMQ8GkUYyCrQytvky3xqvg4ElYoZzo&sid=1ccb9eab1827786e&sni=nodevipvpn123123124.soon.it#🇬🇪 Georgia | Neon Core Network 1
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F#🇬🇪 Georgia | Ordunet 1
