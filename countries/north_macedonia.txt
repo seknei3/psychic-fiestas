@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🌍 North Macedonia | Akton d.o.o. 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🌍 North Macedonia | Akton d.o.o. 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#🌍 North Macedonia | Akton d.o.o. 3
+vless://45b6e036-de5c-4f44-9d92-4226c53b47fa@mk.itg.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=JlILvZabOIdJXXh2mmM5sNpFMZin9ZuL3fg9bWlFJxM&sid=c8f4a2d6b1e9&packetEncoding=xudp#🌍 North Macedonia | Global Connectivity So... 1
