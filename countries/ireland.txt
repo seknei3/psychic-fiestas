@@ -6,4 +6,4 @@
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.152.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#🇮🇪 Ireland | Mvps LTD 1
+vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.2.150:443?encryption=none&type=ws&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev#🇮🇪 Ireland | Mvps LTD 1
