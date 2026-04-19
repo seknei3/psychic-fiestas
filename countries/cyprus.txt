@@ -8,4 +8,4 @@
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🌍 Cyprus | H2nexus LTD 1
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🌍 Cyprus | H2nexus LTD 2
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🌍 Cyprus | H2nexus LTD 3
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🌍 Cyprus | H2nexus LTD 4
+vless://aa3c2eec-3946-0140-88a9-47b58a6bc5a7@158.160.231.77:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🌍 Cyprus | HostRoyale Technologie... 1

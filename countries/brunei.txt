@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBCcnVuZWkK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9c82ce38-12a2-00dc-a77a-4d46a73675b0@158.160.244.203:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&sni=api-maps.yandex.ru#🌍 Brunei | Cyberzone S.A. 1
+vless://aa3c2eec-3946-00dc-88a9-47b58a6bc5a7@158.160.231.77:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🌍 Brunei | Cyberzone S.A. 1
