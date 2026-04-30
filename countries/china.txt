@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@116.44.53.251:12126?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 China | 263 Global Communications 1
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?encryption=none&fp=random&headerType=none&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&security=reality&sid=2c9bbf&sni=www.icloud.com&spx=/Xt2ygyvxK7BCc6r&type=tcp#🌍 China | Light Node 1
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=random&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&sid=2c9bbf&spx=%2FXt2ygyvxK7BCc6r#🌍 China | Light Node 2
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=random&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&sid=2c9bbf&spx=%2FXt2ygyvxK7BCc6r#🌍 China | Light Node 3
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.27.20:80?encryption=none&host=sss.yaml7.ggff.net&security=none&type=ws#🌍 China | 263 Global Communications 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime28.workers.dev#🌍 China | 263 Global Communications 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@185.106.176.150:28812?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🌍 China | 263 Global Communications 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🌍 China | 263 Global Communications 4
