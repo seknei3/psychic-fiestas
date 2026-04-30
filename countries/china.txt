@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.38.60.52:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🌍 China | 263 Global Communications 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@116.44.53.251:20817?type=ws&security=tls&encryption=none&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | 263 Global Communications 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.161.216.173:8443?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🌍 China | 263 Global Communications 3
-vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=random&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&sid=2c9bbf&spx=%2FXt2ygyvxK7BCc6r#🌍 China | Light Node 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@116.44.53.251:12126?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 China | 263 Global Communications 1
+vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?encryption=none&fp=random&headerType=none&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&security=reality&sid=2c9bbf&sni=www.icloud.com&spx=/Xt2ygyvxK7BCc6r&type=tcp#🌍 China | Light Node 1
+vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=random&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&sid=2c9bbf&spx=%2FXt2ygyvxK7BCc6r#🌍 China | Light Node 2
+vless://9a341f75-4217-59e4-b9e6-b921496d7a1a@valentines.recipes:13406?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=random&pbk=1CnSqL7cl6dpbK1lr0u07IfNrVPrSUg2dS2niwBAZRo&sid=2c9bbf&spx=%2FXt2ygyvxK7BCc6r#🌍 China | Light Node 3
