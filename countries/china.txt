@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@96.9.228.241:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌍 China | Light Node 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.153.206.239:27015?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&Telegram🇨🇳 @WangCai2=#🌍 China | Light Node 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.104.4.243:43290?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🌍 China | Light Node 3
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.3:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | 263 Global Communications 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@206.189.155.153:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🌍 China | Light Node 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@178.128.62.86:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌍 China | Light Node 2
