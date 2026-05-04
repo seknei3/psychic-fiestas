@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@68.183.225.227:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=babayaga-6i7.pages.dev&sni=babayaga-6i7.pages.dev#🌍 China | Light Node 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?security=tls&type=ws&path=%2F&host=1-brc.pages.dev&sni=1-brc.pages.dev&fp=chrome#🌍 China | Light Node 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.28.129.157:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | Light Node 2
