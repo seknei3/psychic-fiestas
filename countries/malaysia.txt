@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.211.251.219:443?sni=gogo6.kmj.qzz.io&type=ws&host=gogo6.kmj.qzz.io&path=/fp=chrome&security=tls#🌍 Malaysia | Cloudflare, 1
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.106.102.56:443?flow=&fp=chrome&headertype=none&host=gogo9.kmj.qzz.io&path=%2Ffp%3Dchrome&quicsecurity=none&security=tls&servicename=&sni=gogo9.kmj.qzz.io&type=ws#🌍 Malaysia | DigitalOcean, 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.211.240.247:443?host=gogo15.kmj.qzz.io&path=%2F&security=tls&sni=gogo15.kmj.qzz.io&type=ws#🌍 Malaysia | Cloudflare, 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@68.183.225.227:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌍 Malaysia | DigitalOcean, 1
