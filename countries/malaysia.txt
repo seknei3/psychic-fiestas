@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.211.240.247:443?host=gogo15.kmj.qzz.io&path=%2F&security=tls&sni=gogo15.kmj.qzz.io&type=ws#🌍 Malaysia | Cloudflare, 1
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@68.183.225.227:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌍 Malaysia | DigitalOcean, 1
+vless://45aa07ae-46b1-4441-8961-7b50a35e4dcc@43.216.216.185:443?flow=xtls-rprx-vision&fp=chrome&pbk=nF2OcAVTHb-9GlvZOyF9IDUFMd4jYFI-jvqSMoAEvAQ&security=reality&sid=bccbcdd561d1&sni=cdnjs.cloudflare.com&type=tcp#🌍 Malaysia | Amazon.com, 1
+vless://45aa07ae-46b1-4441-8961-7b50a35e4dcc@43.216.216.185:443?flow=xtls-rprx-vision&fp=chrome&pbk=nF2OcAVTHb-9GlvZOyF9IDUFMd4jYFI-jvqSMoAEvAQ&security=reality&sid=bccbcdd561d1&sni=cdnjs.cloudflare.com&type=tcp#🌍 Malaysia | Amazon.com, 2
