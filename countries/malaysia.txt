@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.158.102:27015?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 Malaysia | DigitalOcean, 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.211.251.219:443?&security=tls&fp=chrome&sni=gogo.qzzio.dpdns.org&type=ws&headerType=none&host=gogo.qzzio.dpdns.org&path=%2F#🌍 Malaysia | Cloudflare, 1
