@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBCZWxpemUK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80/?type=ws&encryption=none&flow=&host=lucky-voice-d6f3.difat89954-0c6.workers.dev#🌍 Belize | Neon Core Network 1
+vless://bafacd98-136a-4530-838d-4e5c51838dac@91.107.150.171:2000?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=/lib/collection/jp/juzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#🌍 Belize | Neon Core Network 1
