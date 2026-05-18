@@ -3,9 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://c0430eea-066a-4a97-ac7f-77c4d10965a5@138.124.123.220:443?type=tcp&security=reality&fp=chrome&pbk=Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c&sid=51f0&sni=yahoo.com#🇲🇩 Moldova | OOO FREEnet Group 1
-vless://c0430eea-066a-4a97-ac7f-77c4d10965a5@138.124.123.220:443?type=tcp&security=reality&fp=chrome&pbk=Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c&sid=51f0&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 2
-vless://c0430eea-066a-4a97-ac7f-77c4d10965a5@138.124.123.220:443?type=tcp&security=reality&fp=chrome&pbk=Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c&sid=51f0&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 3
-vless://c0430eea-066a-4a97-ac7f-77c4d10965a5@138.124.123.220:443?type=tcp&security=reality&fp=chrome&pbk=Saj8JGZ0VDNJNYKYgoaB_yfbww0uKUbn_FjwOLBIU3c&sid=51f0&sni=yahoo.com#🇲🇩 Moldova | OOO FREEnet Group 4
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?encryption=none&type=ws&host=rayan-007.nastaran.dpdns.org&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#🇲🇩 Moldova | Alexhost SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇲🇩 Moldova | Trabia SRL 16
