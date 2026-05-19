@@ -6,12 +6,12 @@
 #announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoxLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBvcnQiOjIyMzI0LCJwcyI6Ilx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtQlIiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidiI6IjIifQ==#🇧🇷 Brazil | Akamai Technologies, 1
-vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoxLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBvcnQiOjIyMzI0LCJwcyI6Ilx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmN1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUJSLTEzNzg1MzkzIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInYiOiIyIn0=#🇧🇷 Brazil | Akamai Technologies, 2
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil | Kaopu Cloud HK 1
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil | Kaopu Cloud HK 2
+vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMSIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6bnVsbCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuYW1lIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IEJSIDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMjMyNCwicHMiOiJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1CUi0xMzc4NTM5MyIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇧🇷 Brazil | Akamai Technologies, 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷 Brazil | Kaopu Cloud HK 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷 Brazil | Kaopu Cloud HK 2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil | Kaopu Cloud HK 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷 Brazil | Kaopu Cloud HK 4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil | Kaopu Cloud HK 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷 Brazil | Kaopu Cloud HK 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷 Brazil | Kaopu Cloud HK 6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil | Kaopu Cloud HK 6
 trojan://strong-secret-pass-777@45.82.245.37:4443?allowInsecure=1#🇧🇷 Brazil | WorkTitans B.V. 1
 trojan://strong-secret-pass-777@45.82.245.37:4443?allowInsecure=1#🇧🇷 Brazil | WorkTitans B.V. 2
