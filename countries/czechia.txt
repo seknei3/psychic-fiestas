@@ -6,4 +6,4 @@
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv174.towersflowerss.com:65000?type=ws&headerType=none&security=none&encryption=none&fp=randomized&path=%2F#🇨🇿 Czechia | Lunory Cloud Solutions... 1
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv174.towersflowerss.com:65000?type=ws&path=%2F&sni=srv174.towersflowerss.com&fp=randomized#🇨🇿 Czechia | Lunory Cloud Solutions... 2
+vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv174.towersflowerss.com:65000?type=ws&headerType=none&security=none&encryption=none&fp=randomized&path=%2F#🇨🇿 Czechia | Lunory Cloud Solutions... 2
