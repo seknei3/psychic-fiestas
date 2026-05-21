@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVemJla2lzdGFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://7189ddca-48fb-0578-8f7a-ae89ae3b0544@158.160.231.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&sid=#🌍 Uzbekistan | Cyberzone S.A. 1
+vless://7427ec1e-30d1-4d26-8915-f6bb5e9ecc85@81.162.54.249:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 Uzbekistan | PS Cloud Services 1
