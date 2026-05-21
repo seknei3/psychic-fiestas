@@ -3,14 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime58.workers.dev#🇮🇪 Ireland | Amazon.com 1
-vless://7427ec1e-30d1-0044-8915-f6bb5e9ecc85@50.7.4.26:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇮🇪 Ireland | FDCservers.net 1
+vless://c9fdd22e-1c72-469c-acb8-fffb270540d0@85.159.229.189:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=random&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&sid=e6&spx=%2F#🇮🇪 Ireland | Global Connectivity So... 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=raw&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-#🇮🇪 Ireland | WorkTitans B.V. 1
+vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@78.17.60.96:47200/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=cnIaTc6-gTz_k1Re2-9xcpbLbE1F2Nnt-9SgNJzVIVw&sid=abbcb9fb089650#🇮🇪 Ireland | RCS Technologies FZE 1
+vless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@78.17.60.96:47200/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=cnIaTc6-gTz_k1Re2-9xcpbLbE1F2Nnt-9SgNJzVIVw&sid=abbcb9fb089650#🇮🇪 Ireland | RCS Technologies FZE 2
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=tcp&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com#🇮🇪 Ireland | WorkTitans B.V. 1
 vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=raw&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-#🇮🇪 Ireland | WorkTitans B.V. 2
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=tcp&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com#🇮🇪 Ireland | WorkTitans B.V. 3
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=tcp&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com#🇮🇪 Ireland | WorkTitans B.V. 4
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#🇮🇪 Ireland | WorkTitans B.V. 5
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#🇮🇪 Ireland | WorkTitans B.V. 6
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#🇮🇪 Ireland | WorkTitans B.V. 3
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#🇮🇪 Ireland | WorkTitans B.V. 4
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=raw&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-#🇮🇪 Ireland | WorkTitans B.V. 5
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?type=tcp&security=reality&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&sni=yahoo.com#🇮🇪 Ireland | WorkTitans B.V. 6
