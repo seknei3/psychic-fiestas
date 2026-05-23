@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://4961f724-ea5b-4f2d-8843-e823d2332228@87.120.196.205:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com%3A443&fp=chrome&pbk=u7y3WLKg9h9gwgIKET1l42KRqt-bF_pchdTMOWypWnI&sid=d79edccd4380&spx=%2F&flow=xtls-rprx-vision#🌍 Sri Lanka | Host Telecom LTD 1
+vless://a6e6fbe4-b7df-4251-b54a-eda442a1bf40@sw.xanka.best:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ya.ru&fp=chrome&pbk=dceVfMGiO2_ER1FpViwO2enwKMXJXxVDmURu3NLN5zU&sid=57e7bb88&flow=xtls-rprx-vision#🌍 Sri Lanka | Host Telecom LTD 1
