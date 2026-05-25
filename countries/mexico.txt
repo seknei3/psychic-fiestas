@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#🌍 Mexico | Latitude.sh 1
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg2LjE1OCIsInYiOiIyIiwicHMiOiI0ODU0LiBWTUVTUyB8IFNOSTogMjE2LjIzOC44Ni4xNTggfCBURzogQHdscnVzdGciLCJwb3J0IjozNDQ2MCwiaWQiOiI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCJhaWQiOiIwIiwibmV0Ijoibm9uZSIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==#🌍 Mexico | The Constant Company 1
-vmess://eyJhZGQiOiAiMjE2LjIzOC44Ni4xNTgiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJwb3J0IjogMzQ0NjAsICJpZCI6ICI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCAiYWlkIjogIjAiLCAibmV0IjogIm5vbmUiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==#🌍 Mexico | The Constant Company 2
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🌍 Mexico | Latitude.sh 1
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg2LjE1OCIsInYiOiIyIiwicHMiOiI1Mjg0LiBWTUVTUyB8IFNOSTogMjE2LjIzOC44Ni4xNTggfCBURzogQHdscnVzdGciLCJwb3J0IjozNDQ2MCwiaWQiOiI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCJhaWQiOiIwIiwibmV0Ijoibm9uZSIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==#🌍 Mexico | The Constant Company 1
