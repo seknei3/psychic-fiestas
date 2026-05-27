@@ -6,5 +6,5 @@
 #announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://d36158bb-4014-4fa2-8adb-441bf13ec8d5@vm87675.vpsone.xyz:28680?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=F3ngCwDK5mA1G3g4J637DaMqPvC7BS1aiBTrJL3rLho&sid=a2&spx=%2F7wB2M9iC15RIZss#🇸🇰 Slovakia | Cloudflare, 1
-vless://d36158bb-4014-4fa2-8adb-441bf13ec8d5@vm87675.vpsone.xyz:28680?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=F3ngCwDK5mA1G3g4J637DaMqPvC7BS1aiBTrJL3rLho&sid=a2&spx=%2F7wB2M9iC15RIZss#🇸🇰 Slovakia | Cloudflare, 2
-vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&sid=555fd87c44d272a4&sni=www.hyundai.com#🇸🇰 Slovakia | WorkTitans B.V. 1
+vless://edffa88b-0373-4596-a4dc-9c7dfac35dc5@by.verymad.net:26146?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=39f734ac&spx=%2FibXdFu0mLfkK7AB#🇸🇰 Slovakia | Cloudflare, 2
+vless://d36158bb-4014-4fa2-8adb-441bf13ec8d5@vm87675.vpsone.xyz:28680?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=F3ngCwDK5mA1G3g4J637DaMqPvC7BS1aiBTrJL3rLho&sid=a2&spx=%2F7wB2M9iC15RIZss#🇸🇰 Slovakia | Cloudflare, 3
