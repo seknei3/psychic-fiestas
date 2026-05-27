@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=patreon.com&fp=chrome&allowInsecure=1&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=/&flow=xtls-rprx-vision#🇱🇺 Luxembourg | FranTech Solutions 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇱🇺 Luxembourg | FranTech Solutions 2
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇱🇺 Luxembourg | FranTech Solutions 1
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@lu.vles.space:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=botapi.max.ru&fp=chrome&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e&type=tcp&headerType=none#🇱🇺 Luxembourg | WorkTitans B.V. 1
