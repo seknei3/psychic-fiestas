@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://c51de3a3-85c8-42ad-8e34-6f5c1b8e0b3f@51.250.26.148:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=%2F#🇱🇹 Lithuania | Cherry Servers 1
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 1
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 2
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?flow=xtls-rprx-vision&fp=qq&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&security=reality&sid=132c271e21324e36&sni=googdas.scroogethebest.com&spx=%2F&type=tcp#🇱🇹 Lithuania | Dedicated servers 3
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 3
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 4
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 5
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?flow=xtls-rprx-vision&fp=qq&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&security=reality&sid=132c271e21324e36&sni=googdas.scroogethebest.com&spx=%2F&type=tcp#🇱🇹 Lithuania | Dedicated servers 5
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#🇱🇹 Lithuania | Dedicated servers 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#🇱🇹 Lithuania | UAB "Interneto vizija" 1
-vless://c51de3a3-85c8-42ad-8e34-6f5c1b8e0b3f@158.160.53.173:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=%2F#🇱🇹 Lithuania | UAB Cherry Servers 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#🇱🇹 Lithuania | UAB "Interneto vizija" 2
