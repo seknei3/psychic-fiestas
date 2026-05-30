@@ -3,29 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMjQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 1
 vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 2
 vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 3
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 4
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 5
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 6
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 7
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 8
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 9
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 10
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 11
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 12
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 13
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 14
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 15
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇷🇺 Россия LTE #🇨🇿 Czechia | OVH SAS 16
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 17
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇨🇿 Czechia | OVH SAS 18
 vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 1
 vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 2
 vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 3
 vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 4
-vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 5
-vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?encryption=none&fp=&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&security=reality&serviceName=grpc&sid=f5&sni=xp.apple.com&type=grpc#🇨🇿 Czechia | WorkTitans B.V. 6
+vless://9c635a14-8c0c-4a63-8bf7-2d16377a7254@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=f14d655b9372f9a7&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 5
+vless://9c635a14-8c0c-4a63-8bf7-2d16377a7254@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vashsender.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=b931fc8272&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 6
