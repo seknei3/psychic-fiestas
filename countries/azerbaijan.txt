@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBemVyYmFpamFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0N2VseFhSbTJ3aVljMVN5dEFuVkFD@94.20.140.199:443#🌍 Azerbaijan | Delta Telecom 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allowInsecure=1&type=tcp&security=tls&sni=az.01.naiun.bilibili.com&descriptions=люби_себяe3bd48#🌍 Azerbaijan | Datacamp 1
