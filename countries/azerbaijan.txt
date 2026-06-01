@@ -7,5 +7,5 @@
 
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:41943?allowInsecure=1&type=tcp&sni=az.01.naiun.bilibili.com&security=tls#🌍 Azerbaijan | Datacamp 1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:41943?allowInsecure=1&security=tls&sni=az.01.naiun.bilibili.com&type=tcp&__rand=998be6ad#🌍 Azerbaijan | Datacamp 2
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com&burmalda=ae4b9433#🌍 Azerbaijan | Datacamp 3
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com&allowInsecure=1&nonce=CxDcGywU#🌍 Azerbaijan | Datacamp 4
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com&allowInsecure=1&nonce=CxDcGywU#🌍 Azerbaijan | Datacamp 3
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com&burmalda=ae4b9433#🌍 Azerbaijan | Datacamp 4
