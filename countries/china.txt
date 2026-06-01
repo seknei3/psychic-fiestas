@@ -3,47 +3,37 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgNDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMzIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 1
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 2
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 3
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 4
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?allowInsecure=0&sni=www.static-cast.click#🌍 China | Light Node 5
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 6
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 7
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?fp=chrome&security=tls&sni=www.ws-converter.click&type=#🌍 China | Light Node 8
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 9
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 10
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 China | Light Node 11
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 China | Light Node 12
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?type=raw&headerType=none&security=tls&sni=www.node-finder.click#🌍 China | Light Node 13
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 14
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 15
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 16
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 17
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 18
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click&fp=chrome&type=tcp#🌍 China | Light Node 19
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 20
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 21
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?allowInsecure=0&sni=www.static-cast.click#🌍 China | Light Node 22
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 23
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 24
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 25
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?allowInsecure=0&sni=www.static-cast.click#🌍 China | Light Node 26
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?sni=www.static-cast.click#🌍 China | Light Node 27
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?sni=www.static-cast.click&peer=www.static-cast.click&security=tls#🌍 China | Light Node 28
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 29
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 30
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 31
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?type=raw&headerType=none&security=tls&sni=www.node-finder.click#🌍 China | Light Node 32
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?type=raw&headerType=none&security=tls&sni=www.node-finder.click#🌍 China | Light Node 33
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 34
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 35
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 36
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 37
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?security=tls&sni=www.ws-converter.click&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 China | Light Node 38
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 39
-trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 40
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 41
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 1
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 2
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click#🌍 China | Light Node 3
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 4
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 5
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 6
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 7
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 8
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 9
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 10
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 11
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?allowInsecure=0&sni=www.static-cast.click#🌍 China | Light Node 12
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 13
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 14
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&headerType=none&type=tcp&sni=www.node-finder.click#🌍 China | Light Node 15
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?allowInsecure=0&sni=www.static-cast.click#🌍 China | Light Node 16
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?fp=chrome&security=tls&sni=www.ws-converter.click&type=#🌍 China | Light Node 17
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 18
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 19
+trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#🌍 China | Light Node 20
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click#🌍 China | Light Node 21
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=v2rayNplus-v2rayNplus-v2rayNplus#🌍 China | Light Node 22
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allowInsecure=1&sni=www.rolll.click#🌍 China | Light Node 23
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 24
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?sni=www.rolll.click#🌍 China | Light Node 25
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click#🌍 China | Light Node 26
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 China | Light Node 27
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.rolll.click#🌍 China | Light Node 28
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 29
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click&fp=chrome&type=tcp#🌍 China | Light Node 30
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#🌍 China | Light Node 31
 vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=&fp=chrome&insecure=1&sni=www.icloud.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=#🌍 China | PEG TECH INC 1
