@@ -7,7 +7,7 @@
 
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 1
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 2
-trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#FULL 🇪🇬 #🌍 Egypt | Kaopu Cloud HK 3
+trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 3
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 4
-trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 5
+trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#FULL 🇪🇬 #🌍 Egypt | Kaopu Cloud HK 5
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?security=tls&sni=38.60.226.78&fp=chrome&type=tcp#🌍 Egypt | Kaopu Cloud HK 6
