@@ -3,16 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 1
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 2
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 3
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 4
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 5
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=%2Flivestreamcontent%2F#🇲🇩 Moldova | Alexhost SRL 6
 vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&spx=%2F#🇲🇩 Moldova | OOO FREEnet Group 1
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&encryption=none&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=5a55#🇲🇩 Moldova | OOO FREEnet Group 2
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&encryption=none&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=87ab#🇲🇩 Moldova | OOO FREEnet Group 3
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 4
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&encryption=none&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=87ab#🇲🇩 Moldova | OOO FREEnet Group 2
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=87ab&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE#🇲🇩 Moldova | OOO FREEnet Group 3
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&fp=chrome&sid=5a55&sni=yahoo.com&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&type=tcp&allowInsecure=1&encryption=none&headerType=none&nonce=Rv9JYJ7S#🇲🇩 Moldova | OOO FREEnet Group 4
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 5
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=87ab&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE#🇲🇩 Moldova | OOO FREEnet Group 6
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&fp=chrome&sid=5a55&sni=yahoo.com&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&type=tcp&allowInsecure=1&encryption=none&headerType=none&nonce=Rv9JYJ7S#🇲🇩 Moldova | OOO FREEnet Group 7
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&encryption=none&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=87ab#🇲🇩 Moldova | OOO FREEnet Group 6
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 7
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 8
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&encryption=none&sid=5a55&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&allowInsecure=1&descriptions=люби_себяaadfe4#🇲🇩 Moldova | OOO FREEnet Group 9
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&sni=yahoo.com&type=tcp&host=yahoo.com&path=%2F&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55#🇲🇩 Moldova | OOO FREEnet Group 10
-vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&spx=%2F#🇲🇩 Moldova | OOO FREEnet Group 11
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&sni=yahoo.com&type=tcp&host=yahoo.com&path=%2F&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55#🇲🇩 Moldova | OOO FREEnet Group 9
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&encryption=none&sid=5a55&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&allowInsecure=1&descriptions=люби_себяaadfe4#🇲🇩 Moldova | OOO FREEnet Group 10
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?security=reality&encryption=none&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=87ab#🇲🇩 Moldova | OOO FREEnet Group 11
