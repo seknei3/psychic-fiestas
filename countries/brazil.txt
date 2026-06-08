@@ -7,9 +7,9 @@
 
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 1
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 2
-vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 3
+vless://db9571d2-42ed-4cdf-b49f-3195b42c045a@188.114.97.6:443?path=%2Fbr-orcl&security=tls&encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&type=ws&sni=web.whatsapp.com.r3xxe.eu.cc#🇧🇷 Brazil | Oracle 3
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 4
-vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 5
+vless://db9571d2-42ed-4cdf-b49f-3195b42c045a@188.114.97.6:443?path=/br-orcl&security=tls&encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&type=ws&sni=web.whatsapp.com.r3xxe.eu.cc#🇧🇷 Brazil | Oracle 5
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 6
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 7
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=/br-orcl&security=none&encryption=none&host=space.byu.id.r3xxe.eu.cc&type=ws#🇧🇷 Brazil | Oracle 8
