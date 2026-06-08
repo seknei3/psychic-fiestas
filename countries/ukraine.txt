@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime38.workers.dev&path=/#🇺🇦 Ukraine | TOV 'Dream Line Holding' 1
+vless://f2afa642-76c6-419f-af1c-45674d8284e7@37.221.64.170:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=/#🇺🇦 Ukraine | Alexhost SRL 1
+vless://f2afa642-76c6-419f-af1c-45674d8284e7@37.221.64.170:13278?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&fp=chrome&allowInsecure=1&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&sid=fb8e0edb66000f28&spx=/#🇺🇦 Ukraine | Alexhost SRL 2
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇺🇦 Ukraine | TOV 'Dream Line Holding' 1
