@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://bPGg2RZU0VHjM-qANFx8k3APA3Sk9zFx@by01.botovod.space:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&type=grpc&allowInsecure=0#🇧🇾 Belarus | "Vash internet partner" 1
+vless://a12ac1e4-c6dd-47e6-89c5-7de02dc096d8@ru125.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇧🇾 Belarus | H2nexus LTD 1
