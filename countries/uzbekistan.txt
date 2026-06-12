@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVemJla2lzdGFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://6525f506-56b0-0014-a77d-52676645c8da@62.152.60.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gp.x5.ru&fp=firefox&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111&type=tcp#🌍 Uzbekistan | ITGLOBAL 1
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?@V2rayBaaz&note=@FreeOnlineVPN#🌍 Uzbekistan | Servercore UZ 1
