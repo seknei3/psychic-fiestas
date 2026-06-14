@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@88.151.195.254:443?sni=u723828us282.okgfwbackxyz.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#🇺🇦 Ukraine | Baxet Group 1
+vless://361b6b5a-2afa-20bc-556e-e71e7f6aedb7@151.101.109.223:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=alliiiiiii.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇦 Ukraine | Datacamp 1
