@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@103.173.155.158:443?alpn=h3&sni=u723828us229.csgfw.top#🌍 Vietnam | Vietnam Internet Netwo... 1
+vless://7b3c9cec-6a21-4d57-b9c9-383d519e0b27@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=sd5488ghf26dfsae.another-appleid.ccwu.cc&path=/&host=sd5488ghf26dfsae.another-appleid.ccwu.cc&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🌍 Vietnam | Vietnam Internet Netwo... 1
