@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJcmFxCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 1
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 Iraq | Light Node 1
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 2
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 3
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 4
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?type=tcp&security=tls&headerType=none&sni=www.static-optimizer.click&fp=chrome&insecure=1&allowInsecure=1#🌍 Iraq | Light Node 5
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 6
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?type=tcp&security=tls&headerType=none&sni=www.static-optimizer.click&fp=chrome&insecure=1&allowInsecure=1#🌍 Iraq | Light Node 7
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 8
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?type=tcp&security=tls&headerType=none&sni=www.static-optimizer.click&fp=chrome&insecure=1&allowInsecure=1#🌍 Iraq | Light Node 9
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#🌍 Iraq | Light Node 3
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 Iraq | Light Node 4
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 Iraq | Light Node 5
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#🌍 Iraq | Light Node 6
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 7
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#🌍 Iraq | Light Node 8
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 Iraq | Light Node 9
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?sni=www.static-optimizer.click&peer=www.static-optimizer.click&security=tls#🌍 Iraq | Light Node 10
