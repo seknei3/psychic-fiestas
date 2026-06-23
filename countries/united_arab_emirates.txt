@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&headerType=none&type=tcp&sni=38.60.202.163&path=/#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&headerType=none&type=tcp&sni=38.60.202.163&path=/#🇦🇪 United Arab Emirates | Kaopu Cloud HK 4
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&headerType=none&type=tcp&sni=38.60.202.163&path=/#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 4
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 5
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 6
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 6
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 7
