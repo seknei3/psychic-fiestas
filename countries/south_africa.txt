@@ -3,45 +3,44 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDQwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDM5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&__rand=9601f707#🌍 South Africa | Google 1
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?sid=32a8bfa2939125&sni=www.icloud.com&encryption=none&flow=xtls-rprx-vision&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&security=reality&type=tcp&burmalda=d5813c9c#🌍 South Africa | Google 2
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#🌍 South Africa | Google 3
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&descriptions=люби_себя482ca2#🌍 South Africa | Google 4
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#🌍 South Africa | Google 1
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🌍 South Africa | Google 2
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🌍 South Africa | Google 3
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#🌍 South Africa | Google 4
 vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#🌍 South Africa | Google 5
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🌍 South Africa | Google 6
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&seq=you_are_beautiful5155#🌍 South Africa | Google 7
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&descriptions=люби_себяf74167#🌍 South Africa | Google 8
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#🌍 South Africa | Google 9
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#🌍 South Africa | Google 10
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🌍 South Africa | Google 11
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&freeinternet=kizyak_vpn178244457330#🌍 South Africa | Google 12
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?sid=32a8bfa2939125&encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sni=www.icloud.com&__rand=d6bd5c43#🌍 South Africa | Google 13
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#🌍 South Africa | Google 14
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#🌍 South Africa | Google 15
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 1
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#🌍 South Africa | Kaopu Cloud HK 2
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 3
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247#🌍 South Africa | Kaopu Cloud HK 4
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&descriptions=люби_себяf74167#🌍 South Africa | Google 6
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?sid=32a8bfa2939125&sni=www.icloud.com&encryption=none&flow=xtls-rprx-vision&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&security=reality&type=tcp&burmalda=d5813c9c#🌍 South Africa | Google 7
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&__rand=9601f707#🌍 South Africa | Google 8
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&freeinternet=kizyak_vpn178244457330#🌍 South Africa | Google 9
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#🌍 South Africa | Google 10
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&seq=you_are_beautiful5155#🌍 South Africa | Google 11
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?sid=32a8bfa2939125&encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sni=www.icloud.com&__rand=d6bd5c43#🌍 South Africa | Google 12
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125#🌍 South Africa | Google 13
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&descriptions=люби_себя482ca2#🌍 South Africa | Google 14
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 1
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 2
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 3
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 4
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 5
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 6
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 6
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 7
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 8
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 9
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443#🌍 South Africa | Kaopu Cloud HK 10
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 9
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#🌍 South Africa | Kaopu Cloud HK 10
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 14
