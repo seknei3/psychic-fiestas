@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-am.xueshan168.cc:16000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=CuqzBeQR_1VIdOGOgn5v8-t-X-YzURF9b3wtKVVyKQ8&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=chrome#🌍 Macao | Akile LTD 1
-vless://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-am.xueshan168.cc:16000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=CuqzBeQR_1VIdOGOgn5v8-t-X-YzURF9b3wtKVVyKQ8&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=%2F&fp=firefox#🌍 Macao | Akile LTD 2
-vless://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-am.xueshan168.cc:16000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=CuqzBeQR_1VIdOGOgn5v8-t-X-YzURF9b3wtKVVyKQ8&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=%2F&fp=firefox#🌍 Macao | Akile LTD 3
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🌍 Macao | Mtel Telecommunication... 1
