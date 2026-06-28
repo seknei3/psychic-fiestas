@@ -8,22 +8,26 @@
 vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&type=tcp&headerType=none#🇹🇼 Taiwan | Amazon.com, 1
 vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&type=tcp&headerType=none#🇹🇼 Taiwan | Amazon.com, 2
 vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&type=tcp&headerType=none#🇹🇼 Taiwan | Amazon.com, 3
-vless://580d81f8-4f30-49d6-ad90-59fb4a850313@tw3.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2&type=tcp&headerType=none#🇹🇼 Taiwan | Amazon.com, 4
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&allowinsecure=0&type=ws&sni=nbhhh.mrcool.kdns.fr#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=nbhhh.mrcool.kdns.fr&sni=nbhhh.mrcool.kdns.fr&insecure=0&allowInsecure=0#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp&_t=9877d72e#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.89:10000?security=none&type=tcp&encryption=none&headerType=none#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?encryption=none&headerType=none&security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 6
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?encryption=none&type=tcp&security=none&headerType=none&descriptions=люби_себяb32025#🇹🇼 Taiwan | Chunghwa Telecom Co., . 7
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Chunghwa Telecom Co., . 8
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?encryption=none&type=tcp&security=none&headerType=none#🇹🇼 Taiwan | Chunghwa Telecom Co., . 9
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Chunghwa Telecom Co., . 6
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 7
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none#🇹🇼 Taiwan | Chunghwa Telecom Co., . 8
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 9
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 12
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp&freeinternet=kizyak_vpn1782620292338#🇹🇼 Taiwan | Chunghwa Telecom Co., . 11
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp&nonce=ThgoQ9Z4#🇹🇼 Taiwan | Chunghwa Telecom Co., . 12
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼 Taiwan | Chunghwa Telecom Co., . 14
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.89:10000?security=none&type=tcp&encryption=none&headerType=none#🇹🇼 Taiwan | Chunghwa Telecom Co., . 15
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Chunghwa Telecom Co., . 14
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&__rand=2ee91481#🇹🇼 Taiwan | Chunghwa Telecom Co., . 15
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp&descriptions=люби_себя644303#🇹🇼 Taiwan | Chunghwa Telecom Co., . 16
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp&nonce=jdiFjtLX#🇹🇼 Taiwan | Chunghwa Telecom Co., . 17
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?security=none&type=tcp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 18
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@61.221.84.90:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Chunghwa Telecom Co., . 19
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇼 Taiwan | DaDa Broadband LTD. 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🇹🇼 Taiwan | Data Center Network 1
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🇹🇼 Taiwan | Data Center Network 2
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🇹🇼 Taiwan | Data Center Network 3
@@ -34,18 +38,14 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:9443?encryption=non
 vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:9443?encryption=none&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=EYW4ihqDPHa6JL6tT916mdyGu_For35A5TvJ9tRMAlI&sid=bbb3e7b8&type=grpc&authority=&serviceName=storeV1&mode=gun#🇹🇼 Taiwan | Delta 4
 vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:9443?encryption=none&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=EYW4ihqDPHa6JL6tT916mdyGu_For35A5TvJ9tRMAlI&sid=bbb3e7b8&type=grpc&authority=&serviceName=storeV1&mode=gun#🇹🇼 Taiwan | Delta 5
 vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:9443?encryption=none&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=EYW4ihqDPHa6JL6tT916mdyGu_For35A5TvJ9tRMAlI&sid=bbb3e7b8&type=grpc&authority=&serviceName=storeV1&mode=gun#🇹🇼 Taiwan | Delta 6
-vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:9443?encryption=none&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=EYW4ihqDPHa6JL6tT916mdyGu_For35A5TvJ9tRMAlI&sid=bbb3e7b8&type=grpc&authority=&serviceName=storeV1&mode=gun#🇹🇼 Taiwan | Delta 7
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?encryption=none&type=raw&headerType=none&security=none#🇹🇼 Taiwan | Hoshin Multimedia Center 1
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇼 Taiwan | kbro CO. . 1
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp&_t=942145f3#🇹🇼 Taiwan | Kbro CO. . 1
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp&_t=102b1e25#🇹🇼 Taiwan | Pittqiao Network Infor... 1
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Pittqiao Network Infor... 2
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none&burmalda=50db6c9b#🇹🇼 Taiwan | Pittqiao Network Infor... 3
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp&nonce=nf8SWBL_#🇹🇼 Taiwan | Pittqiao Network Infor... 4
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp&seq=you_are_beautiful2343#🇹🇼 Taiwan | Pittqiao Network Infor... 5
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp&nonce=yqyu5ECK#🇹🇼 Taiwan | Pittqiao Network Infor... 6
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 7
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 8
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp&burmalda=5157ebbc#🇹🇼 Taiwan | kbro CO. . 1
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇼 Taiwan | kbro CO. . 2
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Pittqiao Network Infor... 1
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 2
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 3
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 4
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 5
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 6
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Pittqiao Network Infor... 7
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?type=tcp&security=none&fp=firefox#🇹🇼 Taiwan | Pittqiao Network Infor... 8
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@211.76.176.127:10000?security=none&type=tcp#🇹🇼 Taiwan | Pittqiao Network Infor... 9
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFctMTI5Mzc5NDkiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#🇹🇼 Taiwan | Scloud Pte 1
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp&descriptions=СвободуИнтернету421#🇹🇼 Taiwan | TBCNET 1
