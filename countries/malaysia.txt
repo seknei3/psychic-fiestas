@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://SoonTeam@208.84.103.60:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 1
+vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 1
 vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 2
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#🌍 Malaysia | Scloud Pte 1
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.11:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#🌍 Malaysia | Scloud Pte 2
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 3
+vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 3
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@207.148.119.176:8443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#🌍 Malaysia | Scloud Pte 1
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 2
