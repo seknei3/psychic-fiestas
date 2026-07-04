@@ -6,5 +6,5 @@
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?type=tcp&security=none&fp=firefox#🇲🇩 Moldova | Alexhost SRL 1
-vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?type=tcp&security=none&fp=firefox#🇲🇩 Moldova | Alexhost SRL 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime19.workers.dev&path=/#🇲🇩 Moldova | JSC "Moldtelecom" S.A. 1
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?encryption=none&type=raw&headerType=none&security=none#🇲🇩 Moldova | Alexhost SRL 2
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?type=tcp&security=none&fp=firefox#🇲🇩 Moldova | Alexhost SRL 3

@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇦🇲 Armenia | Proitlab 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#🇦🇲 Armenia | WorkTitans B.V. 1
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&encryption=none&sni=gentoo.ubuntuhosting.host&fp=firefox&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&headerType=none&serviceName=gun&mode=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 1
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&fp=edge&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&sni=gentoo.ubuntuhosting.host&mode=multi&serviceName=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 2
