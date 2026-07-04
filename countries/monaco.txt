@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?type=ws&security=tls&sni=vpn47.cc.cd&fp=chrome&path=%2F&host=vpn47.cc.cd#🌍 Monaco | H2nexus LTD 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.68.53.11:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🌍 Monaco | H2nexus LTD 1
