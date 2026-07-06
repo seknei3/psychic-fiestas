@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYXVyaXRpdXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880/?type=ws&encryption=none&flow=&host=vms.lifetime54.workers.dev&path=/&ed=2560&eh=Sec-WebSocket-Protocol&descriptions=СвободуИнтернету788#🌍 Mauritius | MauritiusTelecom 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880/?host=vms.lifetime07.workers.dev&path=%2F&encryption=none&eh=Sec-WebSocket-Protocol&flow=&ed=2560&type=ws#🌍 Mauritius | MauritiusTelecom 1
