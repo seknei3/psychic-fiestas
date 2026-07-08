@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJcmFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Telegram-NetFlowTools&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🌍 Iran | Sefroyek Pardaz Engine... 1
+vless://5ff59653-1905-475a-b92d-8baedca54a3b@irvasl.982550140.xyz:443?security=reality&encryption=none&pbk=yEydqOwqjqCNfaraTQgod69v4j0XjDNIb1cvKtEiPig&headerType=&fp=chrome&spx=/t4fUCqsb4DjHAcx&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c92e#🌍 Iran | Noyan Abr Arvan Co. ( ... 1
