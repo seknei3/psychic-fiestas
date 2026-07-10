@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 1
-vless://eefe7517-7167-33e0-8f1d-8ea1aaca7098@t1.hhaakk9922.com:36795?encryption=none&security=tls&sni=t1.hhaakk9922.com&fp=chrome&type=grpc&authority=&serviceName=ljfxz&mode=gun&allowInsecure=0&insecure=0#🌍 Malaysia | Zhejiang Aiyun Network... 1
+vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 1
+vless://SoonTeam@208.84.103.60:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 2
