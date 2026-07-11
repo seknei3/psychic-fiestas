@@ -6,6 +6,6 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 1
-vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 2
-vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🌍 Malaysia | Advin Services 3
-vless://18e65438-6095-4430-f258-ad68be5133b6@52.139.202.182:443?security=tls&type=ws&path=%2Fbing&host=sga.okkeo.me&packetEncoding=xudp&sni=sga.okkeo.me&fp=chrome#🌍 Malaysia | DigitalOcean, 1
+vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@104.21.12.116:8880?type=ws&host=little-pond-8731.81-68e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 1
+vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@162.159.48.193:8880?encryption=none&type=ws&host=misty-hill-4b94.146-c18.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🌍 Malaysia | Scloud Pte 2
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.73:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Full 🇭🇰 #🌍 Malaysia | Scloud Pte 3
