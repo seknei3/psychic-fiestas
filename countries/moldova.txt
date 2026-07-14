@@ -6,5 +6,5 @@
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&alpn=http/1.1&fp=qq&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&sid&packetEncoding=xudp#🇲🇩 Moldova | MivoCloud SRL 1
-vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&alpn=http/1.1&fp=qq&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&sid&packetEncoding=xudp#🇲🇩 Moldova | MivoCloud SRL 2
+vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&security=reality&sni=console.cloud.yandex.ru&type=tcp#🇲🇩 Moldova | MivoCloud SRL 2
 vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&alpn=http/1.1&fp=qq&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&sid&packetEncoding=xudp#🇲🇩 Moldova | MivoCloud SRL 3
