@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?type=tcp&security=reality&sni=max.ru&fp=firefox&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 1
-vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?security=reality&encryption=none&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 2
-vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?security=reality&encryption=none&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 3
+vless://d84494d0-f628-4f61-a08f-bf6c4e57e744@157.180.91.156:54020?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#🇧🇪 Belgium | M247 Europe SRL 1
 vless://6a467642-9488-405a-96d5-c43dff70d35b@digital.try-me.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digital.try-me.store&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&type=tcp#🇧🇪 Belgium | VERIXI SA 1
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@46.8.208.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM&security=reality&sni=smartcaptcha.yandexcloud.net&type=tcp#🇧🇪 Belgium | VERIXI SA 2
+vless://6a467642-9488-405a-96d5-c43dff70d35b@digital.try-me.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digital.try-me.store&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&type=tcp#🇧🇪 Belgium | VERIXI SA 3
