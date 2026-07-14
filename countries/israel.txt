@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?encryption=none&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F&security=tls&fp=chrome&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev#🇮🇱 Israel | O.M.C. COMPUTERS & COM... 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.190.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime05.workers.dev&path=%2F#🇮🇱 Israel | Webhost 1
