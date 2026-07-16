@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9268fe8c-fe3f-44fe-8984-c7d0060465a1@141.148.193.192:443?security=tls&encryption=none&sni=aka.ms&fp=chrome&type=ws&host=panel.trackydev.site&path=/&allow_insecure=1#🌍 Sri Lanka | Cyberzone S.A. 1
+vless://7b69c549-93f7-0316-88bc-f1a8c3c881e5@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=c019a6ccd9134668&flow=xtls-rprx-vision#🌍 Sri Lanka | Cyberzone S.A. 1

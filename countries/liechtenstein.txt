@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBMaWVjaHRlbnN0ZWluCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@liechtenstein.cloudpath.live:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=0916aa2b&pbk=UK73Vu9F1JwIHfDbb3TIRMsQChYTaJX6K7klhvtdUh8&encryption=none#🌍 Liechtenstein | WorkTitans B.V. 1
+vless://7b69c549-93f7-030c-88bc-f1a8c3c881e5@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&flow=xtls-rprx-vision#🌍 Liechtenstein | Cyberzone S.A. 1

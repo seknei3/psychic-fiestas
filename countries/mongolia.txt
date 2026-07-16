@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🌍 BobiVPN Mongolia
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25nb2xpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+
+vless://7b69c549-93f7-0366-88bc-f1a8c3c881e5@45.145.6.247:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🌍 Mongolia | Cyberzone S.A. 1
