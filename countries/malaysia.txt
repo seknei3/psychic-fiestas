@@ -6,11 +6,11 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://SoonTeam@sexi.carderrr.com:443?encryption=none&security=none&type=ws&host=anten.ir&path=%2Ftelegram%40SoonTeam#🌍 Malaysia | Advin Services 1
-vless://SoonTeam@208.84.103.60:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws&__rand=2be28936#🌍 Malaysia | Advin Services 2
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 1
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 2
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 3
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 4
-vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 1
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.254.160:8443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#🌍 Malaysia | Scloud Pte 2
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@207.148.119.176:8443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#🌍 Malaysia | Scloud Pte 3
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 5
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 6
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&type=ws&security=tls&path=%2Fmy-kc&host=blog.webex.com.yxls.eu.cc&sni=blog.webex.com.yxls.eu.cc&insecure=0&allowInsecure=0#🌍 Malaysia | Kaopu Cloud HK 7
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.195.117:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 1
