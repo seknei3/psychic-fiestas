@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBLdXdhaXQK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBLdXdhaXQK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#🌍 Kuwait | Meteverse . 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#🌍 Kuwait | Meteverse . 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#🌍 Kuwait | Meteverse . 3
+vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@148.251.41.50:10000?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&fp=chrome&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🌍 Kuwait | Interkvm Host SRL 1
