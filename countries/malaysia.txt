@@ -5,18 +5,18 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDQzMDYzLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI0Ny4yNTAuNDUuMjM0IiwgInBhdGgiOiAiL2Fya2kiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=#🌍 Malaysia | Alibaba Cloud 1
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDg2MTMsICJpZCI6ICI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjQ3LjI1MC40NS4yMzQiLCAicGF0aCI6ICIvYXJraSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🌍 Malaysia | Alibaba Cloud 2
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fmy-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#🌍 Malaysia | Kaopu Cloud HK 1
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 2
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 3
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 4
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&type=ws&security=tls&path=%2Fmy-kc&host=blog.webex.com.yxls.eu.cc&sni=blog.webex.com.yxls.eu.cc&insecure=0&allowInsecure=0#🌍 Malaysia | Kaopu Cloud HK 5
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 1
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&type=ws&security=tls&path=%2Fmy-kc&host=blog.webex.com.yxls.eu.cc&sni=blog.webex.com.yxls.eu.cc&insecure=0&allowInsecure=0#🌍 Malaysia | Kaopu Cloud HK 2
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fmy-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#🌍 Malaysia | Kaopu Cloud HK 3
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 4
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 5
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 6
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=/my-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#🌍 Malaysia | Kaopu Cloud HK 7
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 8
-vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 1
-vless://7b102311-43fd-4e8f-877e-8090623c101d@5.180.98.146:22827?type=ws&security=tls&sni=vp26.cc.cd&fp=chrome&path=%2F&host=vp26.cc.cd#🌍 Malaysia | Scloud Pte 2
-vless://7b102311-43fd-4e8f-877e-8090623c101d@5.180.98.146:22827?type=ws&security=tls&sni=vp26.cc.cd&fp=chrome&path=%2F&host=vp26.cc.cd#🌍 Malaysia | Scloud Pte 3
-vless://7b102311-43fd-4e8f-877e-8090623c101d@91.110.209.80:443?security=tls&sni=vp10.pages.dev&type=ws&host=vp10.pages.dev&path=%2F&fp=chrome#🌍 Malaysia | Scloud Pte 4
-vless://b92380e2-e03f-4861-856e-7c2373b04728@198.41.208.252:8880?encryption=none&host=dry-thunder-7f57.57-1a3.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🌍 Malaysia | Scloud Pte 5
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🌍 Malaysia | Kaopu Cloud HK 7
+vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&host=fragrant-shape-07a0.269-144.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 1
+vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=lucky-field-0220.191-de2.workers.dev&packetEncoding=xudp#🌍 Malaysia | Scloud Pte 2
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.110.209.124:443?encryption=none&security=tls&sni=vp10.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp10.pages.dev&path=%2F#🌍 Malaysia | Scloud Pte 3
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 4
+vless://7b102311-43fd-4e8f-877e-8090623c101d@5.180.98.146:22827?type=ws&security=tls&sni=vp26.cc.cd&fp=chrome&path=%2F&host=vp26.cc.cd#🌍 Malaysia | Scloud Pte 5
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.110.209.120:443?encryption=none&security=tls&sni=vp10.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp10.pages.dev&path=%2F#🌍 Malaysia | Scloud Pte 6
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.110.209.80:443?security=tls&sni=vp10.pages.dev&type=ws&host=vp10.pages.dev&path=%2F&fp=chrome#🌍 Malaysia | Scloud Pte 7
+vless://7b102311-43fd-4e8f-877e-8090623c101d@91.110.209.51:443?encryption=none&security=tls&sni=vp10.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp10.pages.dev&path=%2F#🌍 Malaysia | Scloud Pte 8
