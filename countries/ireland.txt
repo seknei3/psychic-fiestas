@@ -3,110 +3,117 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 1
-trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 2
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 3
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 4
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 5
-trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 6
-trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 7
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 8
-trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 9
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 10
-trojan://XG59623478@3.249.67.252:443?type=raw&headerType=none&security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 11
-trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 12
-trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 13
-trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 14
-trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 15
-trojan://XG59623478@singular-lark.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 16
-trojan://XG59623478@3.249.67.252:443?security=tls&headerType=none&type=tcp&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 17
-trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 18
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 19
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?allowInsecure=0&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 20
-trojan://OD90375861@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 21
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 22
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=0&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 23
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 24
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 25
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 26
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 1
+trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 2
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland | Amazon Technologies 3
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 4
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 5
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 6
+trojan://XG59623478@singular-lark.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 7
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 8
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 9
+trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 10
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 11
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 12
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 13
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 14
+trojan://XG59623478@3.249.67.252:443?security=tls&headerType=none&type=tcp&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 15
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 16
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 17
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 18
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 19
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 20
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 21
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 22
+trojan://XG59623478@singular-lark.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=singular-lark.rooster465.autos&insecure=0#🇮🇪 Ireland | Amazon Technologies 23
+trojan://OD90375861@fit-calf.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 24
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 25
+trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 26
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 27
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 28
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 29
-trojan://OD90375861@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 30
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=0&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 31
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 32
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 33
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 34
-trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 35
-trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&path=/#🇮🇪 Ireland | Amazon Technologies 36
-trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 37
-trojan://OD90375861@18.202.244.191:443?sni=fit-calf.rooster465.autos&path=/#🇮🇪 Ireland | Amazon Technologies 38
-trojan://XG59623478@3.249.67.252:443?type=raw&headerType=none&security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 39
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 40
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 41
-trojan://OD90375861@fit-calf.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 42
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 43
+trojan://OD90375861@18.202.244.191:443?sni=fit-calf.rooster465.autos&path=/#🇮🇪 Ireland | Amazon Technologies 28
+trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 29
+trojan://NQ26071394@3.255.100.31:443?sni=thankful-piranha.rooster465.autos&path=/#🇮🇪 Ireland | Amazon Technologies 30
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 31
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland | Amazon Technologies 32
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 33
+trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&path=/#🇮🇪 Ireland | Amazon Technologies 34
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 35
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#🇮🇪 Ireland | Amazon Technologies 36
+trojan://XG59623478@3.249.67.252:443?security=tls&headerType=none&type=tcp&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 37
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 38
+trojan://NQ26071394@3.255.155.50:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 39
+trojan://OD90375861@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 40
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 41
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 42
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 43
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 44
-trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 45
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 46
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 47
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 48
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 49
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 50
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 51
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 52
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 45
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 46
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 47
+trojan://OD90375861@fit-calf.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 48
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 49
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 50
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 51
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 52
 trojan://XG59623478@singular-lark.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 53
-trojan://OD90375861@fit-calf.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 54
-trojan://XG59623478@singular-lark.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 55
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=0&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 56
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 57
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 58
-trojan://OD90375861@fit-calf.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 59
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 60
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 61
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?allowInsecure=0&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 62
-trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 1
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 2
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 3
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon.com, 4
-trojan://OD90375861@wired-tick.rooster465.autos:443#🇮🇪 Ireland | Amazon.com, 5
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 54
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 55
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 56
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 57
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 58
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 59
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 60
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 61
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 62
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 63
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 64
+trojan://XG59623478@singular-lark.rooster465.autos:443#🇮🇪 Ireland | Amazon Technologies 65
+trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#🇮🇪 Ireland | Amazon Technologies 66
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&type=tcp&headerType=none#🇮🇪 Ireland | Amazon Technologies 67
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 68
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 69
+trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 1
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | Amazon.com, 2
+trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 3
+trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 4
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 5
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 6
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 7
-trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 8
+trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 7
+trojan://OD90375861@wired-tick.rooster465.autos:443#🇮🇪 Ireland | Amazon.com, 8
 trojan://OD90375861@wired-tick.rooster465.autos:443#🇮🇪 Ireland | Amazon.com, 9
-trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 10
-trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#🇮🇪 Ireland | Amazon.com, 11
-trojan://OD90375861@wired-tick.rooster465.autos:443#🇮🇪 Ireland | Amazon.com, 12
-trojan://OD90375861@wired-tick.rooster465.autos:443?type=raw&headerType=none&security=tls#🇮🇪 Ireland | Amazon.com, 13
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 10
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 11
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 12
+trojan://OD90375861@wired-tick.rooster465.autos:443#🇮🇪 Ireland | Amazon.com, 13
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 14
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#🇮🇪 Ireland | Amazon.com, 15
 trojan://NQ26071394@108.131.117.154:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | BellSouth.net 1
-trojan://NQ26071394@108.131.117.154:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | BellSouth.net 2
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 3
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 2
+trojan://NQ26071394@108.131.117.154:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | BellSouth.net 3
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | BellSouth.net 4
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | BellSouth.net 5
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | BellSouth.net 6
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 7
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 5
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 6
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | BellSouth.net 7
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 8
-trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 9
+trojan://NQ26071394@funky-opossum.rooster465.autos:443#🇮🇪 Ireland | BellSouth.net 9
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 10
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&type=tcp#🇮🇪 Ireland | M247 Europe SRL 1
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru#🇮🇪 Ireland | M247 Europe SRL 2
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 3
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#🇮🇪 Ireland | M247 Europe SRL 4
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#🇮🇪 Ireland | M247 Europe SRL 5
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&type=tcp#🇮🇪 Ireland | M247 Europe SRL 6
+trojan://NQ26071394@funky-opossum.rooster465.autos:443#🇮🇪 Ireland | BellSouth.net 11
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪 Ireland | BellSouth.net 12
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#🇮🇪 Ireland | BellSouth.net 13
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&type=tcp#🇮🇪 Ireland | M247 Europe SRL 1
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#🇮🇪 Ireland | M247 Europe SRL 2
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls&sni=www.vk.com&fp=android#🇮🇪 Ireland | M247 Europe SRL 3
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 4
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 5
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 6
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#🇮🇪 Ireland | M247 Europe SRL 7
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 8
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls&sni=www.vk.com&fp=android#🇮🇪 Ireland | M247 Europe SRL 9
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 10
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 11
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#🇮🇪 Ireland | M247 Europe SRL 12
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 13
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 14
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#🇮🇪 Ireland | M247 Europe SRL 15
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls&sni=www.vk.com&fp=android#🇮🇪 Ireland | M247 Europe SRL 16
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#🇮🇪 Ireland | M247 Europe SRL 17
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&type=tcp#🇮🇪 Ireland | M247 Europe SRL 18
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#🇮🇪 Ireland | M247 Europe SRL 8
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#🇮🇪 Ireland | M247 Europe SRL 9
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#🇮🇪 Ireland | M247 Europe SRL 10
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&type=tcp#🇮🇪 Ireland | M247 Europe SRL 11
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls&sni=www.vk.com&fp=android#🇮🇪 Ireland | M247 Europe SRL 12
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&sni=api-yandex.maps.ru#🇮🇪 Ireland | M247 Europe SRL 13
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?security=tls&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 14
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 15
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=146.70.90.198&allowInsecure=1&type=tcp&headerType=none#🇮🇪 Ireland | M247 Europe SRL 16
