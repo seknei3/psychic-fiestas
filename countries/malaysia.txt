@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.53:8880?encryption=none&type=ws&host=winter-mode-7f4e.89-136.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#🌍 Malaysia | Scloud Pte 1
-vless://05e7abc2-46e1-4a23-9cdc-173ce17eb0d4@www.iplocation.net:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=round-term-947c.41-332.workers.dev&packetEncoding=xudp#🌍 Malaysia | Scloud Pte 2
+vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=lucky-field-0220.191-de2.workers.dev&packetEncoding=xudp#🌍 Malaysia | Scloud Pte 1
+vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@shrill-cell-cca7.158-6fa.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🌍 Malaysia | Scloud Pte 2
