@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#🌍 Mexico | Latitude.sh 1
-vless://1a16fad3-3182-445f-b27b-db018e4e5746@154.21.91.88:41236?sid=c5475819&security=reality&fp=chrome&sni=yahoo.com&flow=xtls-rprx-vision&type=tcp&pbk=lDSUkgWuvxEQ1RzMbuwGCqdX7bn3uDetAYJmP4HGhXA&encryption=none#🌍 Mexico | Simoresta UAB 1
-vless://1a16fad3-3182-445f-b27b-db018e4e5746@154.21.91.88:41236?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lDSUkgWuvxEQ1RzMbuwGCqdX7bn3uDetAYJmP4HGhXA&security=reality&sid=c5475819&sni=yahoo.com&type=tcp#🌍 Mexico | Simoresta UAB 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#🌍 Mexico | Megacable Comunicacion... 1
+vless://1a16fad3-3182-445f-b27b-db018e4e5746@154.21.91.88:41236?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lDSUkgWuvxEQ1RzMbuwGCqdX7bn3uDetAYJmP4HGhXA&security=reality&sid=c5475819&sni=yahoo.com&type=tcp#🌍 Mexico | Simoresta UAB 1
+vless://1a16fad3-3182-445f-b27b-db018e4e5746@154.21.91.88:41236?sid=c5475819&security=reality&fp=chrome&sni=yahoo.com&flow=xtls-rprx-vision&type=tcp&pbk=lDSUkgWuvxEQ1RzMbuwGCqdX7bn3uDetAYJmP4HGhXA&encryption=none#🌍 Mexico | Simoresta UAB 2
