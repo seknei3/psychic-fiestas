@@ -5,15 +5,15 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@185.253.116.38:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=duckduckgo.com&fp=firefox&pbk=A2_2LyDmeLGGBqdtl7Zu2vRKghhewpmsMq8NmG9RqDw&sid=b9cd333706f5&type=tcp&headerType=none#🇦🇪 United Arab Emirates | HZ Hosting 1
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@81.85.92.246:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&type=tcp&headerType=none#🇦🇪 United Arab Emirates | ITGLOBAL 1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪 United Arab Emirates | Kaopu Cloud HK 4
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?path=%2F&host=uae.unixzone.us&type=ws&security=none&seq=you_are_beautiful6266#🇦🇪 United Arab Emirates | Oracle 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 4
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 5
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 6
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 7
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&path=/&host=uae.unixzone.us&type=ws&encryption=none#🇦🇪 United Arab Emirates | Oracle 8
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&path=/&host=uae.unixzone.us&type=ws&encryption=none#🇦🇪 United Arab Emirates | Oracle 7
