@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDg2MTMsICJpZCI6ICI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjQ3LjI1MC40NS4yMzQiLCAicGF0aCI6ICIvYXJraSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🌍 Malaysia | Alibaba Cloud 1
-vmess://eyJhZGQiOiJjaW5keTUyLmNlb2lpaS5jb20iLCJhaWQiOjAsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGxzXC9jY3R2NXBoZC5tM3U4IiwicG9ydCI6MzY4MDMsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==#🌍 Malaysia | MICROSOFT 1
-vless://83564060-4069-40b4-e657-adccef9c4b62@zjmy.zywm.eu.org:443?&security=tls&fp=chrome&sni=zjmy.zywm.eu.org&type=ws&headerType=none&host=zjmy.zywm.eu.org&path=%2Fmmy#🌍 Malaysia | Oracle 1
-vless://83564060-4069-40b4-e657-adccef9c4b62@zjmy.zywm.eu.org:443?&security=tls&fp=chrome&sni=zjmy.zywm.eu.org&type=ws&headerType=none&host=zjmy.zywm.eu.org&path=%2Fmmy#🌍 Malaysia | Oracle 2
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDQzMDYzLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI0Ny4yNTAuNDUuMjM0IiwgInBhdGgiOiAiL2Fya2kiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=#🌍 Malaysia | Alibaba Cloud 1
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjI1MC40NS4yMzQiLCAicG9ydCI6IDg2MTMsICJpZCI6ICI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjQ3LjI1MC40NS4yMzQiLCAicGF0aCI6ICIvYXJraSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==#🌍 Malaysia | Alibaba Cloud 2
+vless://83564060-4069-40b4-e657-adccef9c4b62@zjmy.zywm.eu.org:443?encryption=none&host=zjmy.zywm.eu.org&path=/mmy&security=tls&sni=zjmy.zywm.eu.org&type=ws#🌍 Malaysia | Oracle 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40006#🌍 Malaysia | Perfect Network Sdn. Bhd. 1
