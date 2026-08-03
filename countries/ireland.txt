@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime47.workers.dev&path=/#🇮🇪 Ireland | Amazon.com, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.192.30:8880?security=none&type=ws&path=/&host=vms.lifetime55.workers.dev#🇮🇪 Ireland | Amazon.com, 2
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳 @VPNine1fp=chrome&security=tls#🇮🇪 Ireland | Global Connectivity So... 1
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?&security=tls&fp=chrome&sni=workspace.evan00.dpdns.org&type=ws&headerType=none&host=workspace.evan00.dpdns.org&path=%2Ffp%3Drandomized#🇮🇪 Ireland | HostPapa 1
