@@ -3,49 +3,28 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMjMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#🇷🇴 Romania | DataNode DC SRL 1
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 1
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 2
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&security=reality&sid=dd4d615422c6424c&sni=d2-ro.cloud-cdn.xyz&spx=%2F&type=tcp#🇷🇴 Romania | C4L 3
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 4
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 5
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&security=reality&sid=dd4d615422c6424c&sni=d2-ro.cloud-cdn.xyz&spx=%2F&type=tcp#🇷🇴 Romania | C4L 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 2
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2F&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 1
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@104.18.1.1:80?path=%2Ffp%3Dchromefp%3Dchrome&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=go.iranfree.de5.net&fp=ios&type=ws#🇷🇴 Romania | Freakhosting LTD 2
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2Ffp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 3
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2Ffp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 4
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@198.41.208.252:8880?encryption=none&host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 5
-vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.101.215:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&alpn=http%2F1.1&encryption=none&host=plain-dawn-765f.452.workers.dev&fp=chrome&type=ws#🇷🇴 Romania | Freakhosting LTD 6
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 7
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@104.18.1.1:80?alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&security=none&encryption=none&fp=ios&host=go.iranfree.de5.net&path=%2Ffp%3Dchromefp%3Dchrome&descriptions=люби_себя9bd93e#🇷🇴 Romania | Freakhosting LTD 8
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2F&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 9
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.114:2053?encryption=none&security=tls&sni=go.iranfree.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=go.iranfree.de5.net&path=%2F#🇷🇴 Romania | Freakhosting LTD 10
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2Ffp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 11
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?security=tls&type=ws&path=/&host=go.iranfree.de5.net&allowInsecure=0&sni=go.iranfree.de5.net&fp=chrome&encryption=none#🇷🇴 Romania | Freakhosting LTD 12
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@173.245.59.15:2087?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2Ffp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#🇷🇴 Romania | Freakhosting LTD 13
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇷🇴 Romania | Freakhosting LTD 14
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.114:2053?encryption=none&security=tls&sni=go.iranfree.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=go.iranfree.de5.net&path=%2F#🇷🇴 Romania | Freakhosting LTD 15
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@82.38.65.88:443?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇷🇴 Romania | Freakhosting LTD 16
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?security=tls&type=ws&path=/&host=go.iranfree.de5.net&allowInsecure=1&sni=go.iranfree.de5.net&fp=chrome&encryption=none#🇷🇴 Romania | Freakhosting LTD 17
-vless://0977bddb-a758-4033-96dd-57468e02ea81@31.169.126.66:443?security=tls&type=ws&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&fp=chrome&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&path=%2Fep%2Farchive%3Fed%3D2560&encryption=none#🇷🇴 Romania | Freakhosting LTD 18
-vless://666c7578-0000-4000-8000-000000000000@one-for-all.levikogjgfdd.ir:443?path=/flux&security=tls&encryption=none&insecure=0&host=parsa-panel-alypp.fafaavaf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=parsa-panel-alypp.fafaavaf.workers.dev#🇷🇴 Romania | Freakhosting LTD 19
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#🇷🇴 Romania | MivoCloud SRL 1
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&seq=you_are_beautiful0636#🇷🇴 Romania | MivoCloud SRL 2
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&_t=f27ffc8e#🇷🇴 Romania | MivoCloud SRL 3
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#🇷🇴 Romania | MivoCloud SRL 4
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 5
+vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@104.16.117.43:443?fp=random&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#🇷🇴 Romania | Freakhosting LTD 1
+vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@108.162.192.4:443/?type=ws&encryption=none&flow=&host=soucuovls.pages.dev&path=pyip=proxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&fp=chrome#🇷🇴 Romania | Freakhosting LTD 2
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@70.34.244.250:53062?security=tls&type=ws&host=qeztrg7u.akscasx.workers.dev&fp=chrome&sni=qeztrg7u.akscasx.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🇷🇴 Romania | Freakhosting LTD 3
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@70.34.244.250:53062?security=tls&type=ws&host=qeztrg7u.akscasx.workers.dev&fp=chrome&sni=qeztrg7u.akscasx.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🇷🇴 Romania | Freakhosting LTD 4
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 1
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#🇷🇴 Romania | MivoCloud SRL 2
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#🇷🇴 Romania | MivoCloud SRL 3
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 4
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&_t=f27ffc8e#🇷🇴 Romania | MivoCloud SRL 5
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 6
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 7
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&burmalda=0e4452a8#🇷🇴 Romania | MivoCloud SRL 8
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&_t=3d07ab58#🇷🇴 Romania | MivoCloud SRL 9
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&_t=a826ef1a#🇷🇴 Romania | MivoCloud SRL 10
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 11
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 1
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 2
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 3
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 4
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 5
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 6
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rm2.magazinnarubeva.ru&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#🇷🇴 Romania | Orion Network 7
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rm2.magazinnarubeva.ru&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#🇷🇴 Romania | Orion Network 8
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rm2.magazinnarubeva.ru&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#🇷🇴 Romania | Orion Network 9
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 7
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&_t=3d07ab58#🇷🇴 Romania | MivoCloud SRL 8
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&seq=you_are_beautiful0636#🇷🇴 Romania | MivoCloud SRL 9
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&burmalda=0e4452a8#🇷🇴 Romania | MivoCloud SRL 10
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&security=tls&_t=a826ef1a#🇷🇴 Romania | MivoCloud SRL 11
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇷🇴 Romania | Serva ONE LTD 1
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇷🇴 Romania | Serva ONE LTD 2
