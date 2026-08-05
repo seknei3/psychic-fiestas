@@ -7,5 +7,5 @@
 
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Denmark | GTT Communications 1
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Denmark | GTT Communications 2
-vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?encryption=none&type=ws&host=play.google.com&path=%2F&security=none#🇩🇰 Denmark | GTT Communications 3
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Denmark | GTT Communications 3
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 Denmark | GTT Communications 4
