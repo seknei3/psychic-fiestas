@@ -3,15 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://26089cd6-c986-40bc-a68b-0703171ce601@31.177.111.141:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IzFgGhHuRt6C42-JLmSFAac4S6_uhc6a9RdEBXhiZmA&security=reality&sid=fb7bcadf992e2411&sni=ads.x5.ru&spx=%2F&type=raw#🇱🇹 Lithuania | Cherry Servers 1
-vless://26089cd6-c986-40bc-a68b-0703171ce601@46.8.209.224:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&security=reality&sid=ae03e6ef452252e0&sni=www.vk.com&spx=%2F&type=raw#🇱🇹 Lithuania | Cherry Servers 2
 vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 1
-vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 2
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr-lt2.astralweb.tech&allowInsecure=1&fp=chrome#🇱🇹 Lithuania | Dedicated servers 2
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 3
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 4
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🇱🇹 Lithuania | UAB Cherry Servers 1
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 2
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 3
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🇱🇹 Lithuania | UAB Cherry Servers 4
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🇱🇹 Lithuania | UAB Cherry Servers 2
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 3
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 4
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 5
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🇱🇹 Lithuania | UAB Cherry Servers 6
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | UAB Cherry Servers 6
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🇱🇹 Lithuania | UAB Cherry Servers 7
