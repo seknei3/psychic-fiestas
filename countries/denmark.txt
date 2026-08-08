@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f692629b-3557-488a-9c9b-60775331e423@dk1.de1-cosmostechnology.ru:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&authority=&serviceName=fi1cosmos&mode=gun#🇩🇰 Denmark | SERV.HOST GROUP LTD 1
+vless://f692629b-3557-488a-9c9b-60775331e423@144.31.242.54:443?encryption=none&fp=firefox&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🇩🇰 Denmark | SERV.HOST GROUP LTD 1
