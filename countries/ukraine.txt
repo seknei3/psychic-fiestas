@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://86dc5fb4-f279-45b7-a2c6-0d1e84b85c18@www.gov.ua:8880?encryption=none&security=none&type=ws&host=lingering-dawn-5d4a.163-3f1.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
-vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
-vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@104.17.145.180:8443?&security=tls&fp=chrome&sni=free-7f1.pages.dev&type=ws&headerType=none&host=free-7f1.pages.dev&path=%2F#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@104.17.167.149:8443?&security=tls&fp=chrome&sni=free-7f1.pages.dev&type=ws&headerType=none&host=free-7f1.pages.dev&path=%2F#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 2
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@104.17.167.149:8443?&security=tls&fp=chrome&sni=free-7f1.pages.dev&type=ws&headerType=none&host=free-7f1.pages.dev&path=%2F#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 3
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?encryption=none&fp=chrome&host=free-7f1.pages.dev&path=%2F&security=tls&sni=free-7f1.pages.dev&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 4
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@104.17.167.149:8443?&security=tls&fp=chrome&sni=free-7f1.pages.dev&type=ws&headerType=none&host=free-7f1.pages.dev&path=%2F#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 5
