@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0977bddb-a758-4033-96dd-57468e02ea81@103.228.168.182:443?security=tls&type=ws&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&fp=chrome&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&path=%2Fphotos%2Fregister%3Fed%3D2560&encryption=none#🇬🇪 Georgia | Hostkey B.V. 1
+trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-74-ge.netzrun.at:5222?security=tls&sni=dc-74-ge.netzrun.at&fp=firefox#🇬🇪 Georgia | Ordunet 1
