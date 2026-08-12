@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://7a657573-e522-4b12-5be8-3033a1d43d71@104.20.51.24:8443?encryption=none&type=ws&host=xezm0oexu9js.e5z3laeluqds.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F3033a1d43d71%2Floc-1&security=tls&fp=chrome&sni=xezm0oexu9js.e5z3laeluqds.workers.dev#🇩🇰 Denmark | GTT Communications 1
 vless://7a657573-e522-4b12-5be8-3033a1d43d71@104.20.51.24:8443?encryption=none&type=ws&host=xezm0oexu9js.e5z3laeluqds.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F3033a1d43d71%2Floc-1&security=tls&fp=chrome&sni=xezm0oexu9js.e5z3laeluqds.workers.dev#🇩🇰 Denmark | GTT Communications 2
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#🇩🇰 Denmark | Webdock.io ApS 1
