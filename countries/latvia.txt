@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://6de486c1-dbad-4540-8875-98c35e9cd173@46.8.228.91:47424?&type=tcp&headerType=none&path=%2F#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#🇱🇻 Latvia | Global Connectivity So... 1
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity So... 2
+vless://30825d3e-675c-11f1-a103-aef63c7126b0@89.208.231.82:2053?encryption=none&fp=firefox&mode=gun&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&security=reality&serviceName=grpc-direct&sid=4b685844d0b4f724&sni=hh.ru&type=grpc#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity So... 1
+vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#🇱🇻 Latvia | Global Connectivity So... 2
