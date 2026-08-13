@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@195.144.24.84:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=cdn-mk.ai-apiroute.cc&serverName=cdn-mk.ai-apiroute.cc&fp=firefox&alpn=&allowInsecure=1&pbk=PCF6GYA_TCdb28mM6zsxJ38MAtmnSrJJEygkXvrt1AE&sid=b512d49930874a31#🌍 North Macedonia | Andrew Kristuli 1
+vless://7170c66c-3c0b-0352-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&type=tcp&headerType=none#🌍 North Macedonia | Cyberzone S.A. 1

@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBFZ3lwdArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?fp=chrome&type=tcp&sid=0d99027052dca5ac&headerType=none&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&sni=cdn.deepseek.com#🌍 Egypt | LINKdotNET AS number 1
+vless://7170c66c-3c0b-01ea-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=283f1c398542cccb&type=tcp&headerType=none#🌍 Egypt | Cyberzone S.A. 1
