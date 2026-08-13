@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBHcmVlbmxhbmQK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7170c66c-3c0b-024e-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=c019a6ccd9134668&type=tcp&headerType=none#🌍 Greenland | Cyberzone S.A. 1
+vless://50414e45-4c5f-5a45-5553-88ceed27d643@104.18.188.115:443?path=/stream/PANEL_ZEUS/88ceed27d643/loc-0&security=tls&encryption=none&insecure=0&host=z-e-u-s-panel-231cq2.nova-3bd4a6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z-e-u-s-panel-231cq2.nova-3bd4a6.workers.dev#🌍 Greenland | M247 Europe Greenland 1
