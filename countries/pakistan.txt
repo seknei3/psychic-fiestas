@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQYWtpc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7170c66c-3c0b-03de-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&type=tcp&headerType=none#🌍 Pakistan | Cyberzone S.A. 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYwW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtUEstMTUzNjY0NTUiLCJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJwb3J0IjoyOTAzNSwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZTM1MWQ2ZDgtYzE2Ny0zZTA3LThmZGEtM2YyZjRlYzA3NjBiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🌍 Pakistan | Virtury Cloud Private 1
