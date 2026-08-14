@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://7170c66c-3c0b-0294-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=c019a6ccd9134668&type=tcp&headerType=none#🇮🇱 Israel | Datacamp 1
+vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@155.117.137.66:443?security=reality&encryption=none&fp=firefox&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn8-14.yahoo.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=100b884efd3d2c4a#🇮🇱 Israel | DataCamp 1
