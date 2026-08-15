@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://e8492150-33fd-5b0d-abe8-af5d00000003@188.114.96.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sync&security=tls&encryption=none&pbk=enabled&insecure=0&host=ramox.cyou&fp=chrome&type=ws&allowInsecure=0&sni=ramox.cyou#🇦🇪 United Arab Emirates | Microsoft 1
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/&__rand=aabb56bc#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 3
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?type=ws&path=%2F&security=none&host=uae.unixzone.us&nonce=oASB35ga#🇦🇪 United Arab Emirates | Oracle 3
