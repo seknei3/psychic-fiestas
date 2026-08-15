@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@109.163.239.37:443?security=reality&encryption=none&fp=firefox&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn6-91.yahoo.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=8015c191d21aa452#🇧🇪 Belgium | DataCamp 1
+vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:2083?path=%2F&security=tls&encryption=none&insecure=0&host=summer-hall-8b23.asddsaasan.workers.dev&fp=random&type=ws&allowInsecure=0&sni=summer-hall-8b23.asddsaasan.workers.dev#🇧🇪 Belgium | H2nexus LTD 1
