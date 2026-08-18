@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTZXljaGVsbGVzCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1&burmalda=3e052662#🌍 Seychelles | Alaxona Internet Inc 1
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1&descriptions=люби_себя4e4680#🌍 Seychelles | Alaxona Internet Inc 1
