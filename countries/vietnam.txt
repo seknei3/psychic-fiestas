@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://7170c66c-3c0b-0582-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&type=tcp&headerType=none#🌍 Vietnam | Cyberzone S.A. 1
+vless://432ab7a2-6e2b-4f0b-be4a-06bdcc714624@bftu-stnbal.servora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=mCDHZBY0AYAeY7Aj7COGaegrm7QAwfueYYSC02vqbSY&security=reality&sid=0d8ca7e0b3d26321&sni=www.bing.com&type=tcp#🌍 Vietnam | ASIANET 1
