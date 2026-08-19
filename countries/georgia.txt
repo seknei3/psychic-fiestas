@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://2f054fdc-a66c-4fc0-a597-f9752c45168d@Snow-Panel.torexa.ir:13752?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#🇬🇪 Georgia | Netlen Internet Hizmet... 1
+vless://2f054fdc-a66c-4fc0-a597-f9752c45168d@Snow-Panel.torexa.ir:13752?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇬🇪 Georgia | Netlen Internet Hizmet... 1
 vless://2f054fdc-a66c-4fc0-a597-f9752c45168d@Snow-Panel.torexa.ir:13752?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇬🇪 Georgia | Netlen Internet Hizmet... 2
 vless://2f054fdc-a66c-4fc0-a597-f9752c45168d@Snow-Panel.torexa.ir:13752?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇬🇪 Georgia | Netlen Internet Hizmet... 3
