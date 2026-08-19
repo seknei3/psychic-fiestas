@@ -7,7 +7,7 @@
 
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#🇵🇹 Portugal | GCORELABS 1
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 Portugal | GCORELABS 2
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#🇵🇹 Portugal | GCORELABS 3
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 Portugal | GCORELABS 4
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 Portugal | GCORELABS 5
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 Portugal | GCORELABS 3
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#🇵🇹 Portugal | GCORELABS 4
 vless://b8783764-ad60-58bb-b2c9-349bfd373a72@portugal.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=ypuuTzPXRNn_eQnp8EY-1G7WB5X8XojivIdyN_bQTik&sid=a2bc06f6&type=tcp&headerType=none#🇵🇹 Portugal | Global Connectivity So... 1
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@portugal.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=ypuuTzPXRNn_eQnp8EY-1G7WB5X8XojivIdyN_bQTik&sid=a2bc06f6&type=tcp&headerType=none#🇵🇹 Portugal | Global Connectivity So... 2
