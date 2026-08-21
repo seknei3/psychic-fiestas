@@ -3,28 +3,38 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAyMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAzMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime18.workers.dev&path=%2F#🇧🇷 Brazil | M247 Europe SRL 1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 1
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#🇧🇷 Brazil | Oracle 3
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 4
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?&type=ws&headerType=none&host=vms.lifetime58.workers.dev&path=%2F#🇧🇷 Brazil | M247 Europe SRL 1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 1
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 2
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 3
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 4
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 5
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 6
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 7
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 8
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 9
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 10
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 10
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 11
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 12
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 12
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 13
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 14
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 14
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 15
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 16
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bHBZTmlQaXdKMXJWMUhTbVQ1eXpITGNMc3Y5cVZnWElYV1N1Tnczb2hoWT0@163.176.194.118:59319#🇧🇷 Brazil | Oracle 17
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#🇧🇷 Brazil | Oracle 18
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 19
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U1AxTTBJaXBqdnRzdUtWeW45VTJpSytaS3V1UTBhZlZoTENpY0s5cE84WT0@163.176.6.223:59319#🇧🇷 Brazil | Oracle 20
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru #🇧🇷 Brazil | Timeweb 1
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇧🇷 Brazil | Timeweb 2
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇧🇷 Brazil | Timeweb 3
 vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&sni=www.amazon.com#🇧🇷 Brazil | VpsQuan L.L.C. 1
 vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com&type=tcp#🇧🇷 Brazil | VpsQuan L.L.C. 2
-vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&sni=www.amazon.com#🇧🇷 Brazil | VpsQuan L.L.C. 3
+vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com&type=tcp#🇧🇷 Brazil | VpsQuan L.L.C. 3
 vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com&type=tcp#🇧🇷 Brazil | VpsQuan L.L.C. 4
+vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&sni=www.amazon.com#🇧🇷 Brazil | VpsQuan L.L.C. 5
+vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com&type=tcp#🇧🇷 Brazil | VpsQuan L.L.C. 6
+vless://c396fa08-e07a-459b-b894-389456fd6a82@u234-6njjdk.startora.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&security=reality&sid=9ea177c3c147119b&sni=www.amazon.com&type=tcp#🇧🇷 Brazil | VpsQuan L.L.C. 7
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b&sni=www.cloudflare.com#🇧🇷 Brazil | zenlayer.inc 1
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b&sni=www.cloudflare.com#🇧🇷 Brazil | zenlayer.inc 2
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&security=reality&sid=59ccabb0a1483c4b&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | zenlayer.inc 3
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?&security=reality&flow=xtls-rprx-vision&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=wr28-6njjgu.linenheath.site&path=%2F#🇧🇷 Brazil | zenlayer.inc 4
+vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&security=reality&sid=59ccabb0a1483c4b&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | zenlayer.inc 2
