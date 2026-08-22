@@ -6,4 +6,4 @@
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?path=%2F&security=tls&encryption=none&insecure=0&host=workspace.evan00.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=workspace.evan00.dpdns.org#🇮🇪 Ireland | HostPapa 1
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?path=%2F&security=tls&encryption=none&insecure=0&host=workspace.evan00.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=workspace.evan00.dpdns.org#🇮🇪 Ireland | HostPapa 2
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?sni=workspace.evan00.dpdns.org&type=ws&host=workspace.evan00.dpdns.org&path=/fp=randomized&security=tls#🇮🇪 Ireland | HostPapa 2
