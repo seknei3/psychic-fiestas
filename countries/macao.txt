@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://485717cf-e96c-40db-9bc1-624060b89f20@92yqc126g8qwe6v23n01.haiyucloud.com:23956?flow=xtls-rprx-vision&fp=chrome&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&security=reality&sid=bb9b8f5f&sni=www.python.org#🌍 Macao | Akile LTD 1
+vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf01.564895.xyz:2053?fp=firefox&host=mo01.564895.xyz&path=%2Fsadasd&security=tls&sni=mo01.564895.xyz&type=ws#🌍 Macao | Akile LTD 1
