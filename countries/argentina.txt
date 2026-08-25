@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@argentina.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=wLLPLZLV4nYOG_yvjxIrZ2pztDjaJq5pzD81d24wgzY&sid=def057f5&type=tcp&headerType=none#🌍 Argentina | Scalaxy B.V. 1
+vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ar.jobinvest.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 1
