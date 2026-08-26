@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?host=ne4d3.thir.mn8.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=none&type=ws#🇺🇦 Ukraine | 2E TELEKOMUNIKASYON LT... 1
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 1
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 2
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 3
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 4
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 1
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#🇺🇦 Ukraine | ADAMANT, . 2
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@88.151.195.241:18153?encryption=none&type=tcp&headerType=&fp=firefox&host=b6f3132bs274.kukuss.top&path=&flow=xtls-rprx-vision&security=tls&sni=u643766ub6f3132bs274.kukuss.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🇺🇦 Ukraine | Baxet Group 1
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@88.151.195.241:18153?encryption=none&type=tcp&headerType=&fp=firefox&host=b6f3132bs274.kukuss.top&path=&flow=xtls-rprx-vision&security=tls&sni=u643766ub6f3132bs274.kukuss.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🇺🇦 Ukraine | Baxet Group 2
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇺🇦 Ukraine | Green Floid 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇺🇦 Ukraine | Green Floid 2
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#🇺🇦 Ukraine | Green Floid 3
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#🇺🇦 Ukraine | Green Floid 1
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@5.34.182.23:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇺🇦 Ukraine | Green Floid 2
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@5.34.182.23:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇺🇦 Ukraine | Green Floid 3
+vless://5238521b-c5dd-42af-870e-c174a2aaaafe@5.34.182.23:13443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&packetEncoding=none#🇺🇦 Ukraine | Green Floid 4
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#🇺🇦 Ukraine | Green Floid 5
+vless://a99dd449-ed34-4469-a3ca-a1d7f9aa7cf4@157.173.3.169:443?type=grpc&security=tls&fp=firefox&sni=4b9ibss6tuv6.bosfiles.net&serviceName=grpc#🇺🇦 Ukraine | Pipe Networks LTD 1
+vless://a99dd449-ed34-4469-a3ca-a1d7f9aa7cf4@157.173.3.169:443?type=grpc&security=tls&fp=firefox&sni=4b9ibss6tuv6.bosfiles.net&serviceName=grpc#🇺🇦 Ukraine | Pipe Networks LTD 2
