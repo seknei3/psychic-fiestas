@@ -7,5 +7,5 @@
 
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#🌍 Macao | Polonetwork 1
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#🌍 Macao | Polonetwork 2
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🌍 Macao | Polonetwork 3
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#🌍 Macao | Polonetwork 4
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#🌍 Macao | Polonetwork 3
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#🌍 Macao | Polonetwork 4
