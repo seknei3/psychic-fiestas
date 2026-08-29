@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7170c66c-3c0b-01ae-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=9748e0984bc655c9&type=tcp&headerType=none#🌍 Cyprus | HostRoyale Technologie... 1
+vless://5bdd048f-181a-4508-a5ea-b6ad8bd6953f@31.56.222.189:42292?security=none&encryption=none&headerType=none&type=tcp#🌍 Cyprus | HostRoyale Technologie... 1
