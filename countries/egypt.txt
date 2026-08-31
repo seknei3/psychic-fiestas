@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBFZ3lwdArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7170c66c-3c0b-01ea-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=283f1c398542cccb&type=tcp&headerType=none#🌍 Egypt | Cyberzone S.A. 1
+vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087/?type=ws&encryption=none&flow=&path=%2Fd1000b16fe76&packetEncoding=xudp#🌍 Egypt | Kaopu Cloud HK 1
