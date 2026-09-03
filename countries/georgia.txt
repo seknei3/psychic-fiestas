@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://38222a83-76bd-4420-b3f0-5473a9bb0d6e@206.1.96.49:37430?type=tcp&encryption=none&security=reality&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#🇬🇪 Georgia | Tres Teknoloji A.S. 1
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.122:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=n1.cloudgaming.one#🇬🇪 Georgia | Alfahost 1
