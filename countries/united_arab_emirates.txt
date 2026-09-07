@@ -3,8 +3,33 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDI4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 1
+vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@104.21.56.202:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cell-d20c.78-107.workers.dev&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 2
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:8080?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇦🇪 United Arab Emirates | Cloud Software - FZCO 3
+vless://24c2a873-4584-4c53-8679-61029682d0bb@104.16.107.139:8880?path=%2Fpyip&security=none&encryption=none&host=soft-thunder-bc22.111-f59.workers.dev&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 4
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/&security=none&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 5
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:2095?type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇦🇪 United Arab Emirates | Cloud Software - FZCO 6
+vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@xstack.mahanfixe.workers.dev:443?encryption=none&path=/xiron&security=tls&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 7
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇦🇪 United Arab Emirates | Cloud Software - FZCO 8
+vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇦🇪 United Arab Emirates | Cloud Software - FZCO 9
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&fp=chrome&host=nahan-core.netizo09.workers.dev&path=/sync&sni=nahan-core.netizo09.workers.dev&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 2
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 3
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 4
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&sni=nahan-core.netizo09.workers.dev&fp=chrome&type=ws&host=nahan-core.netizo09.workers.dev&path=/sync#🇦🇪 United Arab Emirates | CLOUD-NETWORK 5
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 6
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&packetEncoding=none#🇦🇪 United Arab Emirates | CLOUD-NETWORK 7
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 8
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 3
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 5
+vless://3e553ebf-db9d-4858-b608-03d6ff615a41@172.67.209.127:8880?encryption=none&fp=chrome&host=rapid-waterfall-7270.255-22b.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&sni=rapid-waterfall-7270.255-22b.workers.dev&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 1
+vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?encryption=none&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi#🇦🇪 United Arab Emirates | Scloud Pte 2
+vless://14e0ab2e-fb3e-4fd1-a6d9-62eeae62976b@104.17.58.113:8880?alpn=http/1.1&encryption=none&fp=chrome&host=jolly-shape-3ce6.392.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&sni=jolly-shape-3ce6.392.workers.dev&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 3
+vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@172.67.174.37:8880?encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&sni=crimson-wind-71bc.19-5fd.workers.dev&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 4
+vless://0baed386-770e-4e17-a6ca-24349e60903f@116.204.164.17:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇦🇪 United Arab Emirates | Scloud Pte 5
+vless://50414e45-4c5f-5a45-5553-b45978f6d773@104.21.70.21:8080?encryption=none&host=ljz5fuexub6s.nova-705deb.workers.dev&path=/stream/PANEL_ZEUS/b45978f6d773/loc-1&sni=ljz5fuexub6s.nova-705deb.workers.dev&type=ws#🇦🇪 United Arab Emirates | Zenlayer Inc 1
