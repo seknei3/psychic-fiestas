@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://171d0b5f-ed37-4007-9e81-e07f37454ae9@al.mozzfing.shop:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&type=tcp&security=reality&headerType=none&sni=xn--cdn-google-922p938m204clvxe.com.gvt1.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&flow=xtls-rprx-vision#🌍 Albania | Global Connectivity So... 1
-vless://171d0b5f-ed37-4007-9e81-e07f37454ae9@al.mozzfing.shop:443?encryption=none&type=tcp&security=reality&headerType=none&sni=xn--cdn-google-922p938m204clvxe.com.gvt1.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&flow=xtls-rprx-vision#🌍 Albania | Global Connectivity So... 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovNjN2cDdwZGwxR1hhVHBhNmtrV2QyKzN0cTMvc3pTQVd1ZVZLbzI2eE04PQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 1
