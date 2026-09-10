@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.97.215:8880?alpn=http/1.1&encryption=none&fp=chrome&host=plain-dawn-765f.452.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&sni=plain-dawn-765f.452.workers.dev&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 1
-vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@lingering-lab-91a6.54-8c3.workers.dev:8880?encryption=none&path=/pyip%3DProxyIP.US.CMLiussss.net&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 2
-vless://b0962bf7-0b03-4353-9be1-131b78ad71d0@www.ipget.net:8880?encryption=none&fp=chrome&host=weathered-truth-581a.383.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&type=ws#🇦🇪 United Arab Emirates | Cloud Software - FZCO 3
-vless://59a0424b-d36b-4685-bac5-89d50d8969a8@billowing-snowflake-f056.63-f14.workers.dev:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 2
