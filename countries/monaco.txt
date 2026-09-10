@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7170c66c-3c0b-0334-acbb-01774a6b7179@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=c019a6ccd9134668&type=tcp&headerType=none#🌍 Monaco | Cyberzone S.A. 1
+vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&fp=qq&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&flow=xtls-rprx-vision#🌍 Monaco | H2nexus Cloud Services... 1
