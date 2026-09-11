@@ -5,15 +5,15 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://fa45096d-bed0-ad80-c773-23c300000018@104.21.108.4:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=/sync#🇦🇪 United Arab Emirates | Amazon Technologies 1
-vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
-vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 2
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇦🇪 United Arab Emirates | Microsoft 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 1
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.97.6:8080?encryption=none&host=index.harmonica01.workers.dev&path=/axch1mttbxz2k55y01&sni=index.harmonica01.workers.dev&type=ws#🇦🇪 United Arab Emirates | Amazon Technologies 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 3
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 4
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 5
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 6
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 6
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@www.gov.ua:8880?encryption=none&security=none&sni=www.gov.ua&type=ws&host=morning-brook-d78e.347.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇦🇪 United Arab Emirates | Scloud Pte 1
+vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.190.141:8880?encryption=none&fp=firefox&host=delicate-base-12ed.287-133.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&sni=delicate-base-12ed.287-133.workers.dev&type=ws#🇦🇪 United Arab Emirates | Scloud Pte 2
+vless://ea29d6f1-3567-4d45-b8c2-e42f162caef4@104.21.88.129:8880?security=none&type=ws&host=mute-dawn-f27b.375.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇦🇪 United Arab Emirates | Scloud Pte 3
 vless://d40a6aad-5fbd-48af-9374-1bbebf09a212@Emirates-sgood.wopd.butnorwa.butter.whooisthebest.ir:33353?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=lrJShu6JVnQQ54hKEmKWnj5DUcwalnWBbN_HjGFOeB8&sid=ad51aa0889b8da46&allowInsecure=1#🇦🇪 United Arab Emirates | Zenlayer Inc 1
 vless://d40a6aad-5fbd-48af-9374-1bbebf09a212@Emirates-sgood.wopd.butnorwa.butter.whooisthebest.ir:33353?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=lrJShu6JVnQQ54hKEmKWnj5DUcwalnWBbN_HjGFOeB8&sid=ad51aa0889b8da46&allowInsecure=1#🇦🇪 United Arab Emirates | Zenlayer Inc 2
