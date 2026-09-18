@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.81:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.81:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.74:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 3
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.229:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 4
-vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.229:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime55.workers.dev #🇺🇦 Ukraine | TOV 'Dream Line Holding' 1
