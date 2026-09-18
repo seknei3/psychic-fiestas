@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ef286b0e-21ed-4e2b-9110-e2ddc7627892@5.9.117.252:4433?security=tls&type=ws&path=/@Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&packetEncoding=xudp&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome#🇨🇿 Czechia | Cloudflare, 1
+vless://4172c2af-6f65-46d0-a3fc-9e5d539c9c76@153.76.185.89:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1

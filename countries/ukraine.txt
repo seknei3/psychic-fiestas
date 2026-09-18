@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime55.workers.dev #🇺🇦 Ukraine | TOV 'Dream Line Holding' 1
+vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?security=&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
+vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
