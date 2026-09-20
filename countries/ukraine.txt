@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://d144d943-46bd-41ce-af2c-06358c845616@104.143.223.50:2089?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
-vless://d144d943-46bd-41ce-af2c-06358c845616@104.143.223.50:2089?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
+vless://38ffee35-b305-41ba-89e0-78e62d95b99c@104.143.223.80:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
+vless://38ffee35-b305-41ba-89e0-78e62d95b99c@104.143.223.80:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
