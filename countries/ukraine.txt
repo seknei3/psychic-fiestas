@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4715152e-d226-4d14-8cfd-f3f0463dff3a@md-kiv-2.blook.network:443?security=reality&encryption=none&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=md-kiv-2.blook.network&sid=db26#🇺🇦 Ukraine | Route 95 1
+vless://4715152e-d226-4d14-8cfd-f3f0463dff3a@md-kiv-2.blook.network:443?security=reality&encryption=none&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=md-kiv-2.blook.network&sid=db26&fp=firefox#🇺🇦 Ukraine | Route 95 1
 vless://4715152e-d226-4d14-8cfd-f3f0463dff3a@md-kiv-2.blook.network:443?security=reality&encryption=none&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=md-kiv-2.blook.network&sid=db26#🇺🇦 Ukraine | Route 95 2
