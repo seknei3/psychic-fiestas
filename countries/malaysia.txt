@@ -6,5 +6,5 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 1
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 2
-vless://220046c3-0081-4c22-a648-83a52bc3a0d5@www.glassdoor.com:8880?type=ws&encryption=none&host=yellow-sky-38b3.154-d73.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🌍 Malaysia | M247 Europe SRL 1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.136.146.73:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/url/archives?ed=2560fp=chrome&security=tls#🌍 Malaysia | M247 Europe SRL 1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@68.64.179.129:443?fp=chrome&host=cdn8848.776676.xyz&path=%2Fcode%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#🌍 Malaysia | M247 Europe SRL 2
