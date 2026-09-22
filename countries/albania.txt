@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://50414e45-4c5f-5a45-5553-60c86b8747e5@courses.zigapacademy.ir:443?path=%2Fapi%2Fws&security=tls&encryption=none&insecure=0&host=web-app-aug8yr.app-f1qsy1.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-aug8yr.app-f1qsy1.workers.dev&fragment=tlshello%2C100-200%2C1-1%2C100-200#🌍 Albania | Cyberzone S.A. 1
+vless://77ff308d-76e0-00a0-bca7-89152f55f67f@144.31.129.174:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&security=reality&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&fp=chrome#🌍 Albania | Cyberzone S.A. 1
