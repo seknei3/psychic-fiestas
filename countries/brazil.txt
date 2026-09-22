@@ -3,35 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAzMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?security=tls&type=ws&path=%2F&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#🇧🇷 Brazil | Cloudflare, 1
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇷 Brazil | Cloudflare, 2
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇷 Brazil | Cloudflare, 3
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇷 Brazil | Cloudflare, 4
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@104.64.59.22:443?&security=tls&fp=chrome&sni=kkkk-8oc.pages.dev&type=ws&headerType=none&host=kkkk-8oc.pages.dev&path=%2F%3Fed%3D2048#🇧🇷 Brazil | Cloudflare, 5
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&fp=chrome&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | Google 1
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=edge#🇧🇷 Brazil | Google 2
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&sid=b62a4da6cd1c4dd6&fp=chrome#🇧🇷 Brazil | Google 3
-vless://e9c2ed7f-79ab-40a8-8910-24468f5da712@35.199.90.53:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=0WXz3PJQnr-KprrwiO5BlKVRdqA4ZS6U5jGHc_aeJnw&sni=www.cloudflare.com&sid=4b414f69a06e1e81#🇧🇷 Brazil | Google 4
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@157.151.4.93:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇷 Brazil | Cloudflare, 1
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=safari#🇧🇷 Brazil | Google 1
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=firefox#🇧🇷 Brazil | Google 2
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=safari#🇧🇷 Brazil | Google 3
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&fp=chrome&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | Google 4
 vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=chrome#🇧🇷 Brazil | Google 5
 vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=chrome#🇧🇷 Brazil | Google 6
-vless://e9c2ed7f-79ab-40a8-8910-24468f5da712@35.199.90.53:443?security=reality&pbk=0WXz3PJQnr-KprrwiO5BlKVRdqA4ZS6U5jGHc_aeJnw&sid=4b414f69a06e1e81&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#🇧🇷 Brazil | Google 7
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=safari#🇧🇷 Brazil | Google 8
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=chrome#🇧🇷 Brazil | Google 9
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&fp=chrome&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | Google 10
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=firefox#🇧🇷 Brazil | Google 11
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&sid=b62a4da6cd1c4dd6&fp=chrome#🇧🇷 Brazil | Google 12
-vless://e9c2ed7f-79ab-40a8-8910-24468f5da712@35.199.90.53:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=0WXz3PJQnr-KprrwiO5BlKVRdqA4ZS6U5jGHc_aeJnw&sni=www.cloudflare.com&sid=4b414f69a06e1e81#🇧🇷 Brazil | Google 13
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&fp=chrome&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | Google 14
-vless://e9c2ed7f-79ab-40a8-8910-24468f5da712@35.199.90.53:443?&security=reality&pbk=0WXz3PJQnr-KprrwiO5BlKVRdqA4ZS6U5jGHc_aeJnw&sid=4b414f69a06e1e81&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇧🇷 Brazil | Google 15
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=chrome#🇧🇷 Brazil | Google 16
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime61.workers.dev&path=%2F#🇧🇷 Brazil | M247 Europe SRL 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev#🇧🇷 Brazil | M247 Europe SRL 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#🇧🇷 Brazil | Oracle 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.30:8880?security=none&type=ws&path=/&host=vms.lifetime23.workers.dev&packetEncoding=xudp&encryption=none#🇧🇷 Brazil | Oracle 2
-vless://db9571d2-42ed-4cdf-b49f-3195b42c045a@188.114.97.6:443?path=%2Fbr-orcl&security=tls&encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&type=ws&sni=web.whatsapp.com.r3xxe.eu.cc#🇧🇷 Brazil | Oracle 3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.175.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime36.workers.dev&path=%2F#🇧🇷 Brazil | Oracle 4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.91.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#🇧🇷 Brazil | Oracle 5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.30:8880?&type=ws&headerType=none&host=vms.lifetime05.workers.dev&path=%2F#🇧🇷 Brazil | Oracle 6
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#🇧🇷 Brazil | Oracle 7
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=edge#🇧🇷 Brazil | Google 7
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&fp=chrome&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp#🇧🇷 Brazil | Google 8
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=safari#🇧🇷 Brazil | Google 9
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=firefox#🇧🇷 Brazil | Google 10
