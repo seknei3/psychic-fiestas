@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@80.96.109.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=moldova.failspace.top&type=tcp#🇲🇩 Moldova | AVA HOST SRL 1
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?security=tls&type=ws&path=%2F&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#🇲🇩 Moldova | Cloudflare, 1
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇲🇩 Moldova | Cloudflare, 2
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#🇲🇩 Moldova | Cloudflare, 3
