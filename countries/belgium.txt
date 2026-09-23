@@ -3,28 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMjMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 1
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 2
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 3
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 1
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 2
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 3
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 4
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 5
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&host=shuma.ccwu.cc&path=/fp=chrome&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 6
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=firefox#🇧🇪 Belgium | Cloudflare, 7
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 8
-vless://b2593749-691c-428c-9481-14979cba3446@141.98.233.6:443?encryption=none&fp=chrome&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf&security=tls&sni=xi.tbv.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 9
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 10
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 5
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 6
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 7
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 8
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&host=shuma.ccwu.cc&path=/fp=chrome&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 9
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 10
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&host=shuma.ccwu.cc&path=/fp=chrome&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 11
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🇧🇪 Belgium | Cloudflare, 12
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 13
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 14
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 15
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?&security=tls&fp=chrome&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048#🇧🇪 Belgium | Cloudflare, 16
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 17
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 18
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 19
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 20
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 21
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=safari#🇧🇪 Belgium | Cloudflare, 22
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 23
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 12
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 13
