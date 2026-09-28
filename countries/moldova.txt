@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4927073f-24a5-48d4-8ac2-85084cb03f79@85.120.255.161:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.maib.md&fp=chrome&pbk=tKPYfgCB6rlOhpo-GsjPyG7tqUHsFTmOZO43YOyY0xE&allowInsecure=1#🇲🇩 Moldova | AVA HOST SRL 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@md-new.failspace.top:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&fp=chrome#🇲🇩 Moldova | AVA HOST SRL 1
