@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#🌍 Malaysia | Alibaba Cloud 1
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 1
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 2
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 3
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls#🌍 Malaysia | Alibaba Cloud 3
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🌍 Malaysia | Alibaba Cloud 4
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info&packetEncoding=xudp&sni=platform128.halalkhor.info#🌍 Malaysia | Evoxt Enterprise 1
