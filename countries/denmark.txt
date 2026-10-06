@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=safari&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#🇩🇰 Denmark | Global Connectivity So... 1
-vless://f0a52dd3-4377-4402-a450-210bc81bcf25@109.176.202.7:443?security=reality&encryption=none&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=id-nl-01.mintrocket.org&sid=fee1f986a72444db#🇩🇰 Denmark | Imad Nabil Daher tradi... 1
+vless://76d1bd6e-6ba0-44c0-a4a4-becb4e0a9b3d@130.49.188.120:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dk-1.alpha-ai-studio.com&fp=chrome&pbk=RsUYIPGTv1QIAC1wERleUBoyMZ-mpxHPRT_hA80u-BM&sid=1aa760b0&allowInsecure=1#🇩🇰 Denmark | Global Connectivity So... 1
+vless://76d1bd6e-6ba0-44c0-a4a4-becb4e0a9b3d@130.49.188.120:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dk-1.alpha-ai-studio.com&fp=chrome&pbk=RsUYIPGTv1QIAC1wERleUBoyMZ-mpxHPRT_hA80u-BM&sid=1aa760b0&allowInsecure=1#🇩🇰 Denmark | Global Connectivity So... 2
