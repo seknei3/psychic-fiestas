@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bigdick.gamegrow.ru#🇦🇹 Austria | Evolus IT Solutions GmbH 1
-vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bigdick.gamegrow.ru#🇦🇹 Austria | Evolus IT Solutions GmbH 2
-vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bigdick.gamegrow.ru#🇦🇹 Austria | Evolus IT Solutions GmbH 3
+vless://698b212d-ca12-4794-8256-252a6e1b4533@195.74.90.122:443?encryption=none&alpn=http%2F1.1&host=w2p6.vpnpolar.online&path=%2Fbeeline&security=tls&sni=w2p6.vpnpolar.online&type=ws#🇦🇹 Austria | Aeza International LTD 1
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#🇦🇹 Austria | Aeza International LTD 2
+vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#🇦🇹 Austria | Cloudflare, 1
