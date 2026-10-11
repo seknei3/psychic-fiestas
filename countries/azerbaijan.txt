@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBemVyYmFpamFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://688fcedc-c730-47fb-9fc0-b5962a38788e@az.xelnivo.ir:45642?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&sid=8f798d413a5dbf01&spx=/link#🌍 Azerbaijan | G-Core Labs S.A. 1
+vless://c9c219dc-50da-4135-8e5b-67020291f0ec@132.243.199.18:443?security=reality&sni=tmje5vpwly.static-origin.click&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=6ba85179e30d4fc2&spx=%2F&flow=xtls-rprx-vision&type=tcp&encryption=none#🌍 Azerbaijan | G-Core Labs S.A. 1
