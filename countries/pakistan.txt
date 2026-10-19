@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQYWtpc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://bd54fe52-a3f5-47d3-9978-cbfd247db84e@185.220.223.105:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JN8xHIRpEVxnP5K3CbUfL6FqJUfVDEfk-_PD_guZOgM&security=reality&sni=lv-bridge.shadowshroom.org&type=tcp#🌍 Pakistan | Light Node 1
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@45.59.124.39:443?encryption=none&security=tls&sni=kkkk-8oc.pages.dev&fp=firefox&type=ws&path=%2F&host=kkkk-8oc.pages.dev#🌍 Pakistan | Cloudflare, 1
