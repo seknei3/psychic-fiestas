@@ -3,19 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ==@130.49.189.158:43558#🌍 Albania | Global Connectivity So... 14
+vless://iCaYLyqSFgn5Nt@157.22.240.50:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ovhcloud.com&fp=chrome&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&sid=f5bce2ac&type=tcp&headerType=none#🌍 Albania | Global Connectivity So... 1
+vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#🌍 Albania | Global Connectivity So... 2
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@185.186.77.206:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=al1.accessboy.com&type=tcp#🌍 Albania | ONEPROVIDER 1
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@al1.accessboy.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=al1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=/#🌍 Albania | ONEPROVIDER 2
