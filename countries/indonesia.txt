@@ -5,17 +5,17 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDE0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&security=tls&sni=in001.zestapp778.com&fp=firefox&packetEncoding=xudp#🌍 Indonesia | Light Node 2
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 3
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=firefox&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 3
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 4
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 5
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=firefox&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 6
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 7
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 8
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 9
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 10
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&security=tls&sni=in001.zestapp778.com&fp=firefox&packetEncoding=xudp#🌍 Indonesia | Light Node 5
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 6
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 7
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 8
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 9
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 10
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 11
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 12
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 13
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 14
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 12
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#🌍 Indonesia | Light Node 13
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 14
