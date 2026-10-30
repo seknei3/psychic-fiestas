@@ -3,18 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?sni=th001.zestapp778.com&fp=chrome&security=tls#🌍 Thailand | Kaopu Cloud HK 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&type=tcp&security=tls&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 2
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=1&sni=th001.zestapp778.com&type=tcp#🌍 Thailand | Kaopu Cloud HK 3
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?fp=firefox&security=tls&sni=th001.zestapp778.com&type=tcp#🌍 Thailand | Kaopu Cloud HK 4
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?fp=chrome&security=tls&sni=th001.zestapp778.com&type=tcp#🌍 Thailand | Kaopu Cloud HK 5
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?sni=th001.zestapp778.com&fp=chrome&security=tls#🌍 Thailand | Kaopu Cloud HK 6
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?sni=th001.zestapp778.com&fp=chrome&security=tls#🌍 Thailand | Kaopu Cloud HK 7
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=1&sni=th001.zestapp778.com&type=tcp#🌍 Thailand | Light Node 1
+vless://7b102311-43fd-4e8f-877e-8090623c101d@38.190.210.250:443?encryption=none&security=tls&sni=vp10.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp10.pages.dev&path=%2F#🌍 Thailand | M247 Europe SRL 1
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 1
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 2
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 3
-vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 4
-vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&allowInsecure=1#🌍 Thailand | Siamdata Communication... 5
-vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&fp=chrome&host=www.cloudflare.com&path=%2F&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#🌍 Thailand | Siamdata Communication... 6
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?flow=xtls-rprx-vision&fp=chrome&host=www.cloudflare.com&path=%2F&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&security=reality&sid=3c032a7e&sni=www.cloudflare.com&type=tcp#🌍 Thailand | Siamdata Communication... 4
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 5
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🌍 Thailand | Siamdata Communication... 6
