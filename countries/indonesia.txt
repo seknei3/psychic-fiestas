@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1d08ca28-9c86-43c6-9eff-7d3c13df06a8@id.huahua.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&pbk=O_f5yv1Cb3_4Rk2MKYpjnpCEyPNY4_GPUTJYi9usUzc&sid=b6343f999147d133&type=tcp&fp=chrome#🌍 Indonesia | Aceville Pte.ltd 1
-vless://1d08ca28-9c86-43c6-9eff-7d3c13df06a8@id.huahua.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&pbk=O_f5yv1Cb3_4Rk2MKYpjnpCEyPNY4_GPUTJYi9usUzc&sid=b6343f999147d133&type=tcp&fp=qq#🌍 Indonesia | Aceville Pte.ltd 2
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&security=tls&sni=in001.zestapp778.com&fp=firefox&packetEncoding=xudp#🌍 Indonesia | Light Node 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&security=tls&sni=in001.zestapp778.com&fp=firefox&packetEncoding=xudp#🌍 Indonesia | Light Node 3
