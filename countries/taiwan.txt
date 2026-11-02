@@ -3,21 +3,23 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSAxNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSAxOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=60.248.219.78&type=ws#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=true&type=ws&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&packetEncoding=none#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
-trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
+trojan://0a9f1f5a397bd427@125.227.86.45:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=true&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&packetEncoding=xudp#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=60.248.219.78&type=ws#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45502?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 5
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 6
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 7
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45502?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 8
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:22003?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Miku Network Technology 1
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Miku Network Technology 2
-trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Miku Network Technology 3
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 7
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 8
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:45503?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Chunghwa Telecom Co., . 9
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 10
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?&security=tls&fp=chrome&sni=tse1.mm.bing.net&type=ws&headerType=none&host=tse1.mm.bing.net&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 11
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@188.253.6.249:443?fp=chrome&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&security=tls&sni=vlso5.1d.mom&type=ws#🇹🇼 Taiwan | Cloudflare, 1
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Miku Network Technology 1
+trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:22003?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Miku Network Technology 2
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:54815?allowInsecure=1&sni=cm.g.doubleclick.net#🇹🇼 Taiwan | Pittqiao Network Infor... 1
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 1
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&sid=cff998a4#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 2
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 3
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?&security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 4
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 2
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?&security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=/nvl-n04-ws/e0577fe8fd7c8823#🇹🇼 Taiwan | UCLOUD INFORMATION TEC... 3
