@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🌍 Philippines | Bedge CO 1
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🌍 Philippines | Bedge CO 2
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🌍 Philippines | Bedge CO 3
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🌍 Philippines | Bedge CO 4
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🌍 Philippines | Bedge CO 5
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=firefox#🌍 Philippines | Light Node 1
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=chrome#🌍 Philippines | Light Node 2
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari#🌍 Philippines | Light Node 3
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios#🌍 Philippines | Light Node 4
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#🌍 Philippines | Light Node 5
