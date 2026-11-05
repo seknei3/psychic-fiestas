@@ -3,27 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 1
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 2
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 3
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 4
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 5
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 1
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 2
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 3
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 4
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 5
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 6
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 7
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 8
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 9
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 10
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 10
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 11
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.192:18443#🇷🇺 Russia | Baxet 12
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 13
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 14
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#🇷🇺 Russia | Baxet 15
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@185.76.241.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&security=reality&sid=5b555442d5975d6b&sni=ru1.japancase.site&type=tcp#🇷🇺 Russia | Global Internet Solutions 1
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru1.japancase.site&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&sid=5b555442d5975d6b&fp=edge#🇷🇺 Russia | Global Internet Solutions 2
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=vlgrpc&sni=kk-ru24a1.testkknegr.online&type=grpc#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇷🇺 Russia | JSC "TIMEWEB" 2
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=vlgrpc&sni=kk-ru24a1.testkknegr.online&type=grpc#🇷🇺 Russia | JSC "TIMEWEB" 3
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@185.147.27.88:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=id-6aeb73b7.adhil.uk&type=tcp#🇷🇺 Russia | Kviktel 1
-vless://53de05e9-8de3-48ae-9036-dcb203d4925c@rus.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=id-6aeb73b7.adhil.uk&mode=stream-one&fp=qq#🇷🇺 Russia | Kviktel 2
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#🇷🇺 Russia | JSC "TIMEWEB" 2
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#🇷🇺 Russia | JSC "TIMEWEB" 3
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=vlgrpc&sni=kk-ru24a1.testkknegr.online&type=grpc#🇷🇺 Russia | JSC "TIMEWEB" 4
