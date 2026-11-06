@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@195.123.189.217:443?encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&security=reality&serviceName=grpc-90&sid=cbc638acc8ac87&sni=max.ru&type=grpc&fp=safari#🇮🇪 Ireland | M247 Europe SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NWRNMFpyTmRBazRPSGlN@20.107.206.186:443#🇮🇪 Ireland | Microsoft 1
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=360.yandex.ru&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&fp=firefox#🇮🇪 Ireland | Irish Broadband Intern... 1
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8444?encryption=none&type=grpc&security=reality&sni=360.yandex.ru&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&fp=firefox&serviceName=grpc-reality#🇮🇪 Ireland | Irish Broadband Intern... 2
