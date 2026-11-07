@@ -3,11 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@213.183.63.60:9064#🇧🇬 Bulgaria | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#🇧🇬 Bulgaria | Melbikomas UAB 2
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=%5Bh2%252Chttp%252F1.1%5D&flow=xtls-rprx-vision&host=ripelever.net&security=tls&sni=ripelever.net&type=tcp&fp=ios#🇧🇬 Bulgaria | Belcloud LTD 1
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=firefox#🇧🇬 Bulgaria | Belcloud LTD 2
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ripelever.net#🇧🇬 Bulgaria | Belcloud LTD 3
+ss://YWVzLTI1Ni1jZmI6OWVqODJFS2UyZ3E3Z0xBTQ==@213.183.63.60:9085#🇧🇬 Bulgaria | Melbikomas UAB 1
+ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028#🇧🇬 Bulgaria | Melbikomas UAB 2
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061#🇧🇬 Bulgaria | Melbikomas UAB 3
-ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028#🇧🇬 Bulgaria | Melbikomas UAB 4
-vless://9c05ffa3-cc8f-4d44-9ce0-015a7465e786@2.27.105.13:31238?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1KhMuUHbT2C7FKp0DHT1MNE-NHiQhy5yiOqqstvthlQ&sid=a9d8f11690e70dd8&sni=rbc.ru#🇧🇬 Bulgaria | Netgrid Host LTD 1
-vless://9c05ffa3-cc8f-4d44-9ce0-015a7465e786@2.27.105.13:31238?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1KhMuUHbT2C7FKp0DHT1MNE-NHiQhy5yiOqqstvthlQ&sid=a9d8f11690e70dd8&sni=rbc.ru#🇧🇬 Bulgaria | Netgrid Host LTD 2
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@213.183.63.60:9064#🇧🇬 Bulgaria | Melbikomas UAB 4
+vless://9c05ffa3-cc8f-4d44-9ce0-015a7465e786@2.27.105.13:31238?type=tcp&security=reality&sni=rbc.ru&fp=firefox&pbk=1KhMuUHbT2C7FKp0DHT1MNE-NHiQhy5yiOqqstvthlQ&sid=a9d8f11690e70dd8&flow=xtls-rprx-vision#🇧🇬 Bulgaria | Netgrid Host LTD 1
