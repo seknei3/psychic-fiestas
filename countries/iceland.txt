@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7ggQm9iaVZQTiDigJQgSWNlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.107:4443?fp=firefox&security=tls&sni=grape-test-italy.dynuddns.net&type=tcp#🇮🇸 Iceland | 1984 ehf 1
+vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?path=%2Ftvpn-tor%2Fis&security=tls&encryption=none&insecure=0&host=orbylume.my.to&fp=chrome&type=ws&allowInsecure=0&sni=orbylume.my.to#🇮🇸 Iceland | 1984 ehf 1
