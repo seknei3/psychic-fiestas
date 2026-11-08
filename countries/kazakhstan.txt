@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=safari#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCAicG9ydCI6IDgwLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL3ZtZXNzLyJ9#🇰🇿 Kazakhstan | Newserverlife 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ilwvdm1lc3NcLyIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇰🇿 Kazakhstan | Newserverlife 2
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447/?type=raw&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇰🇿 Kazakhstan | Newserverlife 2
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 2
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 3
