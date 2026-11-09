@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?security=tls&type=ws&path=%2Fevents%2Fclassfp%3Dchrome&host=vp7.1145678.xyz&packetEncoding=xudp&sni=vp7.1145678.xyz&fp=chrome#🇮🇱 Israel | Cloudflare, 1
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?encryption=none&security=tls&type=ws&path=%2Fevents%2Fclassfp&host=vp7.1145678.xyz&sni=vp7.1145678.xyz#🇮🇱 Israel | Cloudflare, 2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 3
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 4
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 5
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 4
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 Israel | The Constant Company, 8
