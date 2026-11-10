@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect.accessgate.link:2084?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=ios#🌍 North Macedonia | Global Connectivity So... 1
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect.accessgate.link:2084?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=edge#🌍 North Macedonia | Global Connectivity So... 2
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20049?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🌍 North Macedonia | Akton d.o.o. 1
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:2053?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=imLsTJWqsJvY4Lu9exzN3lWG788xbeu1ujMO1vOxL3U&sid=d2b34f75&fp=chrome&serviceName=cas-mk#🌍 North Macedonia | Andrew Kristuli 1
