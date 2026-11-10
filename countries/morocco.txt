@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb3JvY2NvCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:55854?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-dI886DcXmuCdKxWIEkJ8irTmumm1YDZSZ-M-J6lW0M&security=reality&sid=18bc6e27d744&sni=api.adidas.com&type=tcp#🌍 Morocco | BrainStorm Network, Inc 1
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:55854?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-dI886DcXmuCdKxWIEkJ8irTmumm1YDZSZ-M-J6lW0M&sid=18bc6e27d744&sni=api.adidas.com#🌍 Morocco | BrainStorm Network, Inc 1
