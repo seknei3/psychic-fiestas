@@ -3,20 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://5t6i121em5lkmsmk@38.60.233.126:33079?security=tls&sni=th001.zestapp778.com&type=tcp&allowInsecure=0#🌍 Thailand | Kaopu Cloud HK 1
-vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwgInBvcnQiOiAzNzUxNSwgImlkIjogIjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJUSCBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQgfCBAUmF5ZGlrYWx4IHwgODZGRjc2In0=#🌍 Thailand | Kaopu Cloud HK 2
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 3
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 4
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 5
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 6
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 7
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 8
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 9
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 10
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 11
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 12
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 13
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?security=tls&sni=th001.zestapp778.com#🌍 Thailand | Kaopu Cloud HK 14
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5459?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Von3W6smD_9vmKScjCG9ex6xw4_sG9MFfBk-9zbrbzs&sid=3fdc9f533b3fb068&sni=api.adidas.com#🌍 Thailand | JasTel Network 1
+vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwgInBvcnQiOiAzNzUxNSwgImlkIjogIjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJUSCBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQgfCBAUmF5ZGlrYWx4IHwgODZGRjc2In0=#🌍 Thailand | Kaopu Cloud HK 1
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5458?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NfmPfb_XeLj8j8cho5JkVKW3u_KA2G5UrZyOAhZAxn8&sid=ba80520852fb9c25&sni=api.adidas.com#🌍 Thailand | Metrabyte Co., 1
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5458?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NfmPfb_XeLj8j8cho5JkVKW3u_KA2G5UrZyOAhZAxn8&sid=ba80520852fb9c25&sni=api.adidas.com#🌍 Thailand | Metrabyte Co., 2
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5458?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NfmPfb_XeLj8j8cho5JkVKW3u_KA2G5UrZyOAhZAxn8&sid=ba80520852fb9c25&sni=api.adidas.com#🌍 Thailand | Metrabyte Co., 3
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:5458?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NfmPfb_XeLj8j8cho5JkVKW3u_KA2G5UrZyOAhZAxn8&sid=ba80520852fb9c25&sni=api.adidas.com#🌍 Thailand | Metrabyte Co., 4
