@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@77.91.68.117:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#🇦🇲 Armenia | Cloudflare, 1
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@91.198.108.191:443?security=tls&sni=v1n3.11676767.xyz&fp=chrome&type=ws&path=%2Fgo.php%2Fproducts&host=v1n3.11676767.xyz#🇦🇲 Armenia | Cloudflare, 1
