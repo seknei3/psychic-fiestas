@@ -7,15 +7,15 @@
 
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 1
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 2
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 3
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 4
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 5
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 6
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 3
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#🌍 Mexico | Bedge CO 4
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 1
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 2
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 3
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🌍 Mexico | The Constant Company, 4
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 4
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 5
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 6
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 7
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 8
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🌍 Mexico | The Constant Company, 8
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 9
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🌍 Mexico | The Constant Company, 10
