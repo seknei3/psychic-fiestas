@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@194.180.191.249:443?host=shin-ra.ccwu.cc&path=%2Ffp%3Dunsafe&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇲🇩 Moldova | Cloudflare, 1
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@217.156.123.33:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=mda.kosmosapp.net&mode=gun&serviceName=neurex#🇲🇩 Moldova | Alexhost S.R.L. 1
