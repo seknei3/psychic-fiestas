@@ -3,31 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMjYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/#🌍 Thailand | Eons Data Communications 1
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?&security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=%2F#🌍 Thailand | Eons Data Communications 2
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@203.146.170.195:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=th1.gofizzin.com&pbk=4LwH3FEPZZqjen5iuUlRqV4Buatjv8DxL3KUvE1ULWs&sid=faaf02e8469f34&fp=firefox&spx=/b4fcc6d25bda84e#🌍 Thailand | Cloudflare, 1
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@203.146.170.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4LwH3FEPZZqjen5iuUlRqV4Buatjv8DxL3KUvE1ULWs&security=reality&sid=faaf02e8469f34&sni=th1.gofizzin.com&type=tcp#🌍 Thailand | Cloudflare, 2
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?&security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=%2F#🌍 Thailand | Eons Data Communications 1
 vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwgInBvcnQiOiAzNzUxNSwgImlkIjogIjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJUSCBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQgfCBAUmF5ZGlrYWx4IHwgODZGRjc2In0=#🌍 Thailand | Kaopu Cloud HK 1
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1USCIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOjM3NTE1LCJpZCI6IjliNzZiYzMxLTE3YTUtNDQ1NC05MzRhLThkNWZiNjAyY2Q3MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🌍 Thailand | Kaopu Cloud HK 2
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@54.192.55.98:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#🌍 Thailand | Readyidc-cloud 1
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@54.192.55.98:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#🌍 Thailand | Readyidc-cloud 2
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#🌍 Thailand | Readyidc-cloud 3
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?type=ws&path=%2Flogout&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&sni=assets.opensignal.com#🌍 Thailand | Readyidc-cloud 4
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@54.192.55.98:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#🌍 Thailand | Readyidc-cloud 5
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#🌍 Thailand | Readyidc-cloud 6
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#🌍 Thailand | Readyidc-cloud 7
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&security=false&fp=chrome&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#🌍 Thailand | Readyidc-cloud 8
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#🌍 Thailand | Readyidc-cloud 9
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#🌍 Thailand | Readyidc-cloud 10
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?security=false&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net%3Aassets.opensignal.com&path=%2Flogout&fp=ios#🌍 Thailand | Readyidc-cloud 11
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#🌍 Thailand | Readyidc-cloud 12
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?type=ws&path=%2Flogout&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&sni=assets.opensignal.com#🌍 Thailand | Readyidc-cloud 13
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?security=false&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net%3Aassets.opensignal.com&path=%2Flogout&fp=ios#🌍 Thailand | Readyidc-cloud 14
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 1
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 2
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 3
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 4
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=/&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 5
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 6
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 7
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 8
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@99.86.77.43:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#🌍 Thailand | Siamdata Communication... 1
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@99.86.77.123:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#🌍 Thailand | Siamdata Communication... 2
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 3
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 4
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=/&security=none&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 5
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=/&security=none&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 6
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 7
