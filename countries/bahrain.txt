@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBCYWhyYWluCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@179.236.130.66:20013?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#🌍 Bahrain | Bedge CO 1
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20013?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🌍 Bahrain | Bedge CO 2
+vless://b36a16e4-ded8-11f1-bdea-5254b0a2c347@bh1.vpnjantit.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lDEkUokSL-mrM1jsH8UKs8-3cfJMvkxhY7k37iBkFi4&sid=32b72239bc69220e&sni=cloudflare.com#🌍 Bahrain | Kaopu Cloud HK 1
+vless://b36a16e4-ded8-11f1-bdea-5254b0a2c347@bh1.vpnjantit.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lDEkUokSL-mrM1jsH8UKs8-3cfJMvkxhY7k37iBkFi4&sid=32b72239bc69220e&sni=cloudflare.com#🌍 Bahrain | Kaopu Cloud HK 2
