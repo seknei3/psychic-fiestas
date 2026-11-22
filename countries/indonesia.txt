@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://12d67d2b-ae5c-4d56-9f14-d71d96f7826f@104.17.3.81:443?path=/vlessws&security=tls&encryption=none&host=natan.srpcom.cloud&type=ws&sni=natan.srpcom.cloud#🌍 Indonesia | PT Cloud Hosting Indon... 1
+vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&sid=6135361d11cc2b31&packetEncoding=xudp#🌍 Indonesia | Alibaba Cloud 1
