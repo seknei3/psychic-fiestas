@@ -3,11 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&sni=gateway.icloud.com#🇧🇬 Bulgaria | LAYER6 1
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&encryption=none&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sni=gateway.icloud.com&sid=77bb0d07bddbc832&fp=chrome#🇧🇬 Bulgaria | LAYER6 1
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?security=reality&encryption=none&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=77bb0d07bddbc832#🇧🇬 Bulgaria | LAYER6 2
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832#🇧🇬 Bulgaria | LAYER6 3
-vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&encryption=none&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sni=gateway.icloud.com&sid=77bb0d07bddbc832&fp=chrome#🇧🇬 Bulgaria | LAYER6 4
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&sni=gateway.icloud.com#🇧🇬 Bulgaria | LAYER6 4
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?security=reality&encryption=none&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=77bb0d07bddbc832#🇧🇬 Bulgaria | LAYER6 5
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&sni=gateway.icloud.com#🇧🇬 Bulgaria | LAYER6 6
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#🇧🇬 Bulgaria | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw@213.183.63.60:9066#🇧🇬 Bulgaria | Melbikomas UAB 2
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054#🇧🇬 Bulgaria | Melbikomas UAB 2

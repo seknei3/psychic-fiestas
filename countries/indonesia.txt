@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 1
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 2
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 3
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?alpn=http%2F1.1&host=freeceshi6.frii.site&insecure=0&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=freeceshi6.frii.site&type=ws&fp=firefox#🌍 Indonesia | Cloudflare, 1
