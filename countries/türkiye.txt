@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://ff95d030-691d-4650-bda8-a7f7857b00c3@v1.nimbaha13.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=v1.nimbaha13.ir&path=/gggjj&security=tls&sni=v1.nimbaha13.ir&type=ws#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&fp=chrome&sni=sinavm3.soft10.ir&alpn=http%2F1.1#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 1
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm3.soft10.ir&type=ws#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 2
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@188.114.98.0:443?host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm3.soft10.ir&type=ws#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 3
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sinavm3.soft10.ir&fp=chrome&type=ws&allowInsecure=0&sni=sinavm3.soft10.ir#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 4
-vless://14eccb4f-ca88-4732-b191-d8daacf63448@172.64.155.209:443?encryption=none&type=ws&host=sinavm3.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&fp=chrome&sni=sinavm3.soft10.ir&alpn=http%2F1.1#🇹🇷 Türkiye | Teknosos Bilisim Hizme... 5
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?sni=turkey-ip1.mmdaqaorg.xyz&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇹🇷 Türkiye | YottaSrc 1
