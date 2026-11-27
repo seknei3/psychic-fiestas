@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@md.foldandflyhigh.com:443?type=ws&security=tls&sni=md.foldandflyhigh.com&alpn=http/1.1&host=md.foldandflyhigh.com&path=/#🇲🇩 Moldova | Trabia SRL 1
+vless://c0742f77-5495-43bf-b007-88d368774d7c@85.120.252.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=molda.thewalkingded.life&type=tcp#🇲🇩 Moldova | Alexhost S.R.L. 1
