@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1d5e00da-8af8-4229-9024-b88e901c4e24@48.102.218.168:7444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=ua.overload.ovh&type=tcp#🇺🇦 Ukraine | Friendhosting LTD 1
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http/1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=/#🇺🇦 Ukraine | ON-LINE 1
-trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?type=ws&security=tls&host=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&fp=safari#🇺🇦 Ukraine | ON-LINE 2
+vless://50414e45-4c5f-5a45-5553-647c99716a54@172.67.168.139:443?encryption=none&fp=firefox&host=1pzep5e9up1s.b7zk1gewun8s.workers.dev&path=/stream/PANEL_ZEUS/647c99716a54/loc-0&security=tls&sni=1pzep5e9up1s.b7zk1gewun8s.workers.dev&type=ws#🇺🇦 Ukraine | Mahsum Celik trading a... 1
+vless://50414e45-4c5f-5a45-5553-647c99716a54@104.21.26.207:443?encryption=none&fp=firefox&host=1pzep5e9up1s.b7zk1gewun8s.workers.dev&path=/stream/PANEL_ZEUS/647c99716a54/loc-0&security=tls&sni=1pzep5e9up1s.b7zk1gewun8s.workers.dev&type=ws#🇺🇦 Ukraine | Mahsum Celik trading a... 2
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F#🇺🇦 Ukraine | ON-LINE 1

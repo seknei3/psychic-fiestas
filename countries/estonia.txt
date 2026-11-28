@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@314fbcg.ee5.h1clayd.shop:443?type=grpc&security=reality&serviceName=9e16c22000f6&sni=314fbcg.ee5.h1clayd.shop&fp=firefox&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&sid=55c396924697994f&spx=%2F&encryption=none#🇪🇪 Estonia | HOSTSLIM OU 1
+vless://9fdec6be-b6b5-4f18-bac0-461cb7953ff0@132.243.65.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee.frgcdn.xyz&fp=firefox&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&sid=7a3f9e2b1c8d4f6a&spx=%2F&type=tcp&headerType=none#🇪🇪 Estonia | Andris Jakovlevs 1
+vless://47cd0aca-3ed8-4ddd-86c6-4d3f6a7670b4@132.243.65.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee.frgcdn.xyz&fp=firefox&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&sid=7a3f9e2b1c8d4f6a&spx=%2F&type=tcp&headerType=none#🇪🇪 Estonia | Andris Jakovlevs 2
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.174.135.219:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=eeb.899themes.pro&type=grpc#🇪🇪 Estonia | HZ Hosting 1
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.174.135.219:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=eeb.899themes.pro&mode=gun&serviceName=neurex&encryption=none#🇪🇪 Estonia | HZ Hosting 2
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.174.135.219:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=eeb.899themes.pro&mode=gun&serviceName=neurex#🇪🇪 Estonia | HZ Hosting 3
+vless://7aa77858-f235-000d-9434-7ab060848b17@85.8.201.186:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&fp=firefox&type=tcp&headerType=none#🇪🇪 Estonia | Paul Sagov 1
